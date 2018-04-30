@@ -1,1178 +1,1178 @@
-1 >> line and has >> phone
-1 >> an exclusive line >> product
-1 >> aerospace line . >> product
-1 >> line will continue >> product
-1 >> line as a >> product
-1 >> its VAX line >> product
-1 >> line rose 130% >> product
-1 >> line they deem >> phone
-1 >> launch a line >> product
-1 >> four telephone line >> phone
-1 >> <@> <s> line >> phone
-1 >> its Amiga line >> product
-1 >> line of Japanese-made >> product
-1 >> line into a >> product
-1 >> its microprocessor line >> product
-1 >> line for you >> phone
-1 >> line showed an >> product
-0 >> other line >> phone
-1 >> $5 billion line >> product
-1 >> line of beds >> product
-1 >> <s> line will >> phone
-1 >> a direct line >> phone
-0.405465108108164 >> line and >> phone
-1 >> hardware and line >> phone
-1 >> GMs line >> product
-1 >> new perfume line >> product
-1 >> PS/2 line that >> product
-1 >> line to their >> phone
-1 >> line wouldnt still >> product
-1 >> GM-10 line >> product
-1 >> 10 million line >> phone
-1 >> telephone line and >> phone
-1 >> aerospace line >> product
-1 >> open line to >> phone
-1 >> While such line >> product
-1 >> line to about >> phone
-1 >> all line were >> phone
-1 >> business with line >> phone
-1 >> a line for >> product
-1 >> line and sales >> product
-1 >> line is just >> product
-0 >> line into the >> product
-1 >> the line but >> phone
-1 >> line of mid-sized >> product
-1 >> the microprocessor line >> product
-1 >> Amiga line >> product
-1 >> his line to >> product
-1 >> its computer line >> product
-2.39789527279837 >> the line . >> phone
-1 >> line were jammed >> phone
-1 >> access line making >> phone
-1 >> The line planned >> product
-1 >> clogged the line >> phone
-1 >> other line . >> product
-1 >> billion line >> product
-1 >> Digitals VAX line >> product
-1 >> line growth in >> phone
-1 >> private- line and >> phone
-1 >> that those line >> product
-1 >> see the line >> phone
-1 >> line mainly >> phone
-1 >> telephone line of >> phone
-1 >> line is aimed >> product
-1 >> Jaclyn Smith line >> product
-1 >> party- line effect >> phone
-1 >> their line >> product
-1 >> those line were >> product
-1 >> Marx line >> product
-1 >> over the line >> phone
-1 >> trading line >> phone
-0.916290731874155 >> line were >> phone
-1 >> acquired food line >> product
-1 >> Would his line >> phone
-1 >> line of Chevrolet >> product
-1 >> excavation equipment line >> product
-1 >> line particularly in >> product
-1 >> line of womens >> product
-1 >> the line no >> phone
-1 >> line effect >> phone
-1 >> subscriber line >> phone
-1 >> a specialized line >> product
-1 >> product line >> product
-1 >> line and I >> product
-1 >> telephone tip line >> phone
-1 >> previous line >> product
-1 >> line but declined >> product
-1 >> the Jeep line >> product
-1 >> line Ive heard >> phone
-1 >> line according to >> phone
-0.693147180559945 >> line the >> phone
-1 >> line fell >> product
-1 >> personal computer line >> product
-1 >> thousand access line >> phone
-1 >> to $1.69 line >> product
-1 >> line moved >> product
-1 >> line made by >> product
-1 >> line for the >> product
-1 >> line and leaves >> phone
-1 >> car line and >> product
-1 >> equipment line >> product
-1 >> PW4000 line >> product
-1 >> line for its >> phone
-1 >> line to investment >> phone
-1 >> unsecured line while >> phone
-1 >> line where fashionability >> product
-0.405465108108164 >> line at >> phone
-1 >> its integrated line >> product
-1 >> more complete line >> product
-1 >> new telephone line >> phone
-1 >> line could fetch >> product
-1 >> and truck line >> product
-1 >> a line of >> product
-1 >> line to current >> phone
-1 >> line to Kraft >> product
-1 >> all line >> phone
-1 >> The line was >> phone
-1 >> line Elizabeth Taylors >> product
-1 >> telephone line because >> phone
-1 >> dead line >> phone
-1 >> line Mr. Hoglund >> product
-1 >> its non-food line >> product
-1 >> line of stock. >> product
-1 >> telephone line the >> phone
-1 >> apparel line . >> product
-1 >> subscriber line charges >> phone
-1 >> telephone line -- >> phone
-1 >> telephone line in >> phone
-1 >> A line of >> product
-1 >> cereal line >> product
-1 >> telephone- line growth >> phone
-1 >> line to tie >> phone
-1 >> line went dead >> phone
-1 >> information line which >> phone
-1 >> skin-care line last >> product
-1 >> line in 1985 >> product
-1 >> cereal line with >> product
-1 >> its line 2 >> product
-1 >> The credit line >> product
-1 >> highest-volume car line >> product
-0 >> line in a >> product
-1 >> line if >> phone
-1 >> the line went >> phone
-1 >> line pacing the >> product
-1 >> about 1800 line >> phone
-1 >> telephone line increased >> phone
-1 >> Calif. gab line >> phone
-1 >> line he >> product
-1 >> gab line >> phone
-1 >> dedicated telephone line >> phone
-1 >> Abex Corp.s line >> product
-1 >> a popular line >> product
-1 >> with line >> phone
-1 >> line and involving >> product
-1 >> line planned >> product
-1 >> line of sunglasses. >> product
-1 >> sentence the line >> phone
-1 >> exclusive line of >> product
-1 >> skin-care line is >> product
-1 >> the previous line >> product
-1 >> Lancome line >> product
-0 >> line making it >> phone
-1 >> line Hormel >> product
-1 >> line to a >> product
-1 >> line be >> phone
-0 >> line because >> product
-1 >> full line >> product
-1 >> line -- its >> phone
-1 >> products line >> product
-1 >> line included the >> product
-1 >> line of jeans >> product
-1 >> whose line >> phone
-1 >> line be tapped >> phone
-1 >> line and the >> product
-1 >> truck line through >> product
-1 >> line particularly >> product
-1 >> advertised line >> product
-1 >> other consumer-products line >> product
-1 >> residential telephone line >> phone
-1 >> and romance line >> phone
-1 >> the line into >> product
-1 >> truck line >> product
-1 >> luxury Lexus line >> product
-1 >> with line they >> phone
-1 >> line included >> product
-1 >> apparel line >> product
-1 >> line it had >> product
-1 >> access line growth >> phone
-1 >> that line if >> phone
-1 >> acquired line to >> product
-1 >> future line Hormel >> product
-1 >> line are likely >> product
-1 >> <s> A line >> product
-1 >> older line products >> product
-1 >> access line >> phone
-1 >> Fox line . >> product
-1 >> Nabiscos cereal line >> product
-1 >> already huge line >> product
-1 >> line of older >> product
-1 >> direct line >> phone
-1 >> and Cougar line >> product
-1 >> line of jockey >> product
-1 >> the line was >> phone
-1 >> computer line and >> product
-1 >> line through costly >> product
-1 >> furniture line >> product
-1 >> ordinary line . >> phone
-0.693147180559945 >> line into >> product
-1 >> products a line >> product
-1 >> line like the >> phone
-1 >> car line at >> product
-1 >> basic chemicals line >> product
-1 >> line are Wall >> phone
-1 >> line they still >> product
-1 >> other gab- line >> phone
-1 >> line to the >> phone
-1 >> line the worst >> phone
-1 >> some line >> product
-1 >> and telephone line >> phone
-1 >> eye-care products line >> product
-0.693147180559945 >> line in >> phone
-1 >> 3X line >> product
-1 >> the line like >> phone
-1 >> line busy >> phone
-1 >> 911 emergency line >> phone
-1 >> gab line once >> phone
-1 >> billion line of >> product
-1 >> line Mr. >> product
-1 >> and Clarion line >> product
-1 >> through telephone line >> phone
-1 >> line of plastic >> product
-1 >> line between them >> phone
-1 >> dead line but >> phone
-1 >> <s> These line >> product
-1 >> telephone line or >> phone
-1 >> line jumped 6.8% >> phone
-1 >> specialty-food line >> product
-1 >> line to be >> product
-1 >> line of computer >> product
-1 >> an unsecured line >> phone
-1.09861228866811 >> line from >> product
-1 >> line sir . >> phone
-1 >> new product line >> product
-1 >> line under >> product
-1 >> line ? he >> phone
-1 >> line ranging from >> product
-1 >> asynchronous line . >> phone
-1 >> using line they >> phone
-1 >> Fox line >> product
-1 >> its Zytel line >> product
-1 >> health-club line >> product
-0.0317486983145803 >> line . >> product
 1 >> machinery line >> product
-1 >> some private line >> phone
-1 >> popular line of >> product
-1 >> Grand Prix line >> product
-1 >> R1 line >> product
-1 >> smaller specialty-food line >> product
-1 >> line of computers >> product
-1 >> and line adapters >> phone
-1 >> the telephone line >> phone
-1 >> companys line . >> product
-1 >> bisexual line recently >> phone
-1 >> shoe line to >> product
-1 >> line to 15. >> product
-1 >> direct trading line >> phone
-1 >> line and public >> phone
-1 >> ground-coffee line through >> product
-1 >> line first as >> phone
-1 >> the line between >> phone
-1 >> with the line >> product
-1 >> submarine-seeking torpedo line >> product
-1 >> another line . >> phone
-1.86075234071501 >> the line >> phone
-1 >> line called Soap >> phone
-1 >> complete line of >> product
-1 >> line that it >> product
-1 >> line and perhaps >> product
-1 >> IBM line >> product
-1 >> the line were >> phone
-0 >> line and a >> product
-1 >> drilling bit line >> product
-1 >> other marketing line >> product
-1 >> the three line >> product
-1 >> Business line increased >> phone
-1 >> the tip line >> phone
-1 >> line to Cincinnati-based >> product
-1 >> line appealing for >> phone
-1 >> drink line >> product
-1 >> line and swore >> phone
-1 >> GM-10 line is >> product
-1 >> line of clothing >> product
-1 >> the line making >> phone
-1 >> existing product line >> product
-1 >> line to maybe >> phone
-1 >> long-distance telephone line >> phone
-1 >> line between >> phone
-1 >> credit line to >> product
-1 >> no line noise >> phone
-1 >> Denton line >> product
-0.773189888233482 >> line to >> phone
-1 >> three telephone line >> phone
-1 >> chemicals line from >> product
-1 >> Pratts PW4000 line >> product
-1 >> toll-free line >> phone
-1 >> bit line >> product
-1 >> The Spectrum line >> product
-1 >> line and so >> phone
-1 >> line of high-end >> product
-1 >> IBM PC line >> product
-1 >> {product} line she >> product
-1 >> line once talked >> phone
-1 >> IBM line . >> product
-1 >> skin-care line >> product
-1 >> The party- line >> phone
-1 >> line is capable >> product
-1 >> line wont help >> product
-1 >> business telephone line >> phone
-1 >> line of PDP >> product
-1 >> romance line . >> phone
-1 >> line -- that >> product
-1 >> menswear line >> product
-1 >> line it >> product
-1 >> The information line >> phone
-1.94591014905531 >> The line >> phone
-1 >> line but they >> product
-1 >> companys line of >> product
-1 >> George line >> product
-1 >> those line >> product
-1 >> line said its >> product
-1 >> subscriber- line >> phone
-1 >> line of grotesque >> product
-1 >> party line a >> phone
-1 >> including telephone line >> phone
-1 >> line of Limited >> product
-1 >> old line -- >> product
-1 >> to crossed line >> phone
-1 >> line ! </s> >> phone
-1 >> diaper line >> product
-1 >> full line of >> product
-1 >> line of trucks >> product
-1 >> dozen telephone line >> phone
-1 >> line because children >> phone
-1 >> telephone line . >> phone
-1 >> line Fuqua remarks >> phone
-1 >> line were expected >> product
-1 >> only 50000 line >> phone
-1 >> you the line >> phone
-1 >> line said Richard >> product
-1 >> line noise >> phone
-1 >> Corsica line . >> product
-1 >> line grew 2.5% >> phone
-1 >> its old line >> product
-1 >> line is a >> product
-1 >> line of mid-size >> product
-1 >> These line and >> product
-1 >> million access line >> phone
-1 >> new access line >> phone
-1 >> line which rose >> product
-1 >> line and Ill >> phone
-1 >> largest telephone- line >> phone
-1 >> line was still >> phone
-1 >> PW4000 line have >> product
-1 >> outside line dialed >> phone
-1 >> line appealing >> phone
-1 >> line have reached >> product
-1 >> poorest telephone- line >> phone
-1 >> expand their line >> product
-1 >> fragrance line >> product
-1 >> line which has >> product
-1 >> of jewelry line >> product
-1 >> broader line >> product
-1 >> gab- line >> phone
-1 >> many private- line >> phone
-1 >> food line >> product
-1 >> line Hormel carries >> product
-1 >> priced line >> product
-1 >> that extending line >> phone
-1 >> car line . >> product
-1 >> line of stylish >> product
-1 >> line was scrapped. >> product
-1 >> similar line >> product
-1 >> line was dead >> phone
-1 >> line have a >> product
-1 >> Atlas line and >> product
-1 >> nail-polish line >> product
-1 >> line have been >> phone
-1 >> line may >> product
-1 >> mostly older line >> product
-1 >> the line Ive >> phone
-1 >> line is still >> product
-1 >> gab line last >> phone
-1 >> These line >> product
-1 >> open line >> phone
-1 >> line from Imperial >> product
-1 >> line first >> phone
-1 >> access line were >> phone
-1 >> tire line . >> product
-1 >> new customer line >> phone
-1 >> Smith line in >> product
-1 >> telephone line into >> phone
-1 >> Transformers line >> product
-1 >> Denton line of >> product
-1 >> telephone line is >> phone
-1 >> in line >> product
-1 >> line growth since >> phone
-1 >> line made >> product
-1 >> gab line that >> phone
-1 >> unsecured line >> phone
-1 >> huge line of >> product
-1 >> line she says. >> product
-1 >> its line by >> product
-1 >> Ziari line >> product
-1 >> future line >> product
-1 >> line which includes >> phone
-1 >> line is substantially >> product
-1 >> the old line >> product
-1 >> line such >> product
-1 >> line open ! >> phone
-1 >> at line >> product
-1 >> for direct line >> phone
-1 >> sex line and >> phone
-1 >> line busy for >> phone
-1 >> telephone line growth >> phone
-1 >> <s> line >> phone
-1 >> important line >> phone
-0.693147180559945 >> line in the >> product
-1 >> microprocessor line >> product
-1 >> Choice software line >> product
-1 >> line could >> product
-1 >> a toll-free line >> phone
-1 >> dreamboat line . >> product
-1 >> marketing line said >> product
-1 >> telephone- line >> phone
-1 >> popular car line >> product
-1 >> 1800 line >> phone
-1 >> access line while >> phone
-1 >> initial filter line >> product
-4.02535169073515 >> line of >> product
-1 >> line through Dec. >> product
-1 >> line this fall >> product
-0.0645385211375712 >> line . </s> >> product
-1 >> new luxury-car line >> product
-1 >> sewing line they >> product
-1 >> car line through >> product
-1 >> mid-range computer line >> product
-1 >> one-on-one line >> phone
-1 >> new X-rated line >> phone
-1 >> telephone line according >> phone
-1 >> perfume line Elizabeth >> product
-1 >> torpedo line >> product
-1 >> telephone line used >> phone
-1 >> line were out >> phone
-1 >> line light >> phone
-1 >> line for three >> product
-1 >> Corp.s line of >> product
-1 >> diagnostics line showed >> product
-1 >> and cracker line >> product
-1 >> Macintosh line >> product
-1 >> line -- voices >> phone
-1 >> the other line >> phone
-1 >> line charges. >> phone
-1 >> nationally advertised line >> product
-1 >> computer line >> product
-1 >> priced line of >> product
-1 >> software line >> product
-1 >> line where >> product
-1 >> PS/2 line of >> product
-1 >> line through a >> product
-1 >> exchange line . >> phone
-1 >> Lanterns line of >> product
-1 >> most product line >> product
-1 >> PC line >> product
-1 >> line called Healthy >> product
-1 >> access line the >> phone
-1 >> line of mens >> product
-1 >> the line sir >> phone
-1 >> lastest line of >> product
-1 >> communications line to >> phone
-1 >> 1988-model line >> product
-1 >> switched the line >> phone
-1 >> a full line >> product
-1 >> complaint line and >> phone
-1 >> have a line >> product
-1 >> line proprietors >> phone
-1 >> military line >> product
-1 >> BRIEFS: A line >> product
-1 >> Inc.s Lancome line >> product
-1 >> computer line . >> product
-1 >> customer line grew >> phone
-1 >> line which consists >> product
-1 >> agricultural machinery line >> product
-1 >> Inc.s Macintosh line >> product
-1 >> line built >> product
-1 >> line -- checking >> phone
-1 >> the line from >> phone
-1 >> the line first >> phone
-1 >> telephone line grew >> phone
-1 >> of Colecos line >> product
-1 >> several line such >> product
-1 >> line but many >> phone
-1 >> Carleton line of >> product
-1 >> apparel companys line >> product
-1 >> George line is >> product
-1 >> the party line >> phone
-1 >> line as >> product
-1 >> other line ? >> phone
-1 >> line could draw >> product
-1 >> the line so >> phone
-1 >> toll-free telephone line >> phone
-1 >> installed trading line >> phone
-1 >> line of sweaters >> product
-1 >> line increased 3.7% >> phone
-1 >> line of Captain >> product
-1 >> reasonably priced line >> product
-1 >> line ; Tonka >> product
-1 >> jewelry line from >> product
-1 >> line effect could >> phone
-1 >> II computer line >> product
-1 >> Hospital line was >> phone
-1 >> the line says >> phone
-1 >> using line >> phone
-1 >> line are well >> product
-1 >> than 570000 line >> phone
-1 >> line dialed Homicide >> phone
-1 >> health-club line Bally >> product
-1 >> athletic shoe line >> product
-1 >> line Fuqua >> phone
-1 >> on that line >> phone
-1 >> line by offering >> product
-1 >> line to record >> phone
-1 >> their trading line >> phone
-1 >> tried a line >> product
-1.09861228866811 >> line which >> product
-1 >> Keep this line >> phone
-1 >> residents whose line >> phone
-1 >> its line . >> product
-1 >> VAX line Crays >> product
-1 >> New telephone line >> phone
-1 >> line of computers. >> product
-0 >> line called >> phone
-1 >> consumer information line >> phone
-1 >> its current line >> product
-1 >> sex line >> phone
-1 >> & Marx line >> product
-1 >> line to order >> phone
-1 >> the line he >> product
-1 >> line or that >> phone
-1 >> camera line >> product
-0.693147180559945 >> line with >> product
-1 >> three line >> product
-1 >> line ! >> phone
-1 >> your line >> phone
-1 >> companys diagnostics line >> product
-1 >> access line increased >> phone
-1 >> line in central >> phone
-1 >> Montana fragrance line >> product
-1 >> Corp.s PS/2 line >> product
-1 >> Colecos line and >> product
-1 >> necessary telephone line >> phone
-1 >> PS/2 line last >> product
-1 >> sellers in line >> product
-1 >> Smith line >> product
-1 >> PS/2 line as >> product
-1 >> some line and >> product
-1 >> telephone line that >> phone
-1 >> its PS/2 line >> product
-1 >> direct line to >> phone
-1 >> its long-awaited line >> product
-1 >> current line of >> product
-1 >> the building-materials line >> product
-1 >> line of coronary >> product
-1 >> Mirage car line >> product
-1 >> provide: gab line >> phone
-1 >> line just >> phone
-1 >> bit line is >> product
-1 >> line were allegedly >> phone
-1 >> keep the line >> phone
-1 >> IBMs PS/2 line >> product
-1 >> menswear line . >> product
-1 >> line there including >> product
-1 >> its skin-care line >> product
-1 >> line a 4.2% >> phone
-1 >> the line at >> phone
-1 >> IBMs lastest line >> product
-1 >> its office-equipment line >> product
-1 >> VAX line >> product
-1 >> telephone line during >> phone
-1 >> line charge by >> phone
-1 >> his line of >> product
-1 >> 1988-model line this >> product
-1 >> PS/2 line >> product
-1 >> customer line >> phone
-1 >> line by >> product
-0.693147180559945 >> line last >> product
-1 >> radio line and >> phone
-1 >> and marketing line >> product
-1 >> or asynchronous line >> phone
-1 >> Lexus line in >> product
-1 >> introduced a line >> product
-1 >> Clarion line >> product
-1 >> luxury-car line >> product
-1 >> telephone line called >> phone
-1 >> line of midpriced >> product
-1 >> Lexus line >> product
-1 >> of telephone line >> phone
-1 >> line Elizabeth >> product
-1 >> private line . >> phone
-1 >> private- line >> phone
-1 >> and the line >> phone
-1 >> for some line >> product
-1 >> line a voice >> phone
-1 >> is no line >> phone
-1 >> toll-free line for >> phone
-1 >> line products >> product
-1 >> exchange line >> phone
-1 >> line such as >> product
-1 >> and nail-polish line >> product
-1 >> 32 computer line >> product
-1 >> line last year >> phone
-1 >> the line busy >> phone
-1 >> line with its >> product
-1 >> a new line >> product
-1 >> line of deluxe >> product
-1 >> acquired line >> product
-1 >> a chat line >> phone
-1 >> line of General >> product
-1 >> of the line >> phone
-1 >> line at the >> phone
-1 >> communications line >> phone
-1 >> new line of >> product
-1 >> several line >> product
-0 >> line but >> product
-1 >> ordinary line >> phone
-1 >> product line included >> product
-1 >> line was secure >> phone
-1 >> line and spread >> phone
-1 >> camera line which >> product
-1 >> line used in >> phone
-1 >> and R1 line >> product
-1 >> its sewing line >> product
-1 >> lost the line >> phone
-1 >> line that has >> phone
-1 >> by George line >> product
-1 >> line has >> product
-1 >> line will be >> phone
-1 >> consumer-products line >> product
-1 >> line last April >> product
-1 >> line like >> phone
-1 >> line says >> phone
-1 >> shoe line >> product
-1 >> line may not >> product
-1 >> clogged line recently >> phone
-1 >> VAX line has >> product
-1 >> struggling line >> product
-1 >> entry-level Fox line >> product
-1 >> line as the >> product
-1 >> optometric line were >> product
-1 >> broaden its line >> product
-1 >> romance line >> phone
-1 >> 4.5% access line >> phone
-1 >> line built around >> product
-1 >> the line it >> product
-1 >> an open line >> phone
-1 >> Kids line >> product
-1 >> 570000 line mainly >> phone
-1 >> line Bally could >> product
-1 >> emergency line played >> phone
-1 >> 24 line >> phone
-1 >> for using line >> phone
-1 >> the line because >> product
-1 >> outside line and >> phone
-1 >> fragrance line from >> product
-1 >> its ground-coffee line >> product
-1 >> line noise as >> phone
-1 >> line of oversize >> product
-1 >> line has been >> product
-1 >> gab line have >> phone
-1 >> line that cant >> phone
-1 >> the line light >> phone
-1 >> line through >> product
-1 >> filter line for >> product
-1 >> Hospital line >> phone
-1 >> asynchronous line >> phone
-1 >> Prairie skin-care line >> product
-1 >> furniture line could >> product
-1 >> New customer line >> phone
-1 >> clogged line >> phone
-1 >> manufacture a line >> product
-1 >> a one-on-one line >> phone
-1 >> or dedicated line >> phone
-1 >> The furniture line >> product
-1 >> tire line >> product
-1 >> Corp.s line >> product
-1 >> line grew by >> phone
-0.693147180559945 >> his line >> product
-1 >> from older line >> product
-1 >> telephone line at >> phone
-1 >> Carleton line >> product
-1 >> line and Centrex >> phone
-1 >> line of Green >> product
-1 >> complaint line >> phone
-1 >> optometric line >> product
-1 >> 50000 line . >> phone
-1 >> whose line was >> phone
-1 >> tip line that >> phone
-1 >> line 2 >> product
-1 >> line at Chevrolet >> product
-1 >> chat line . >> phone
-1 >> line were hurt >> product
-1 >> cracker line >> product
-1 >> some line . >> product
-1 >> upscale car line >> product
-1 >> line like they >> phone
-1 >> line wouldnt >> product
-1 >> office-equipment line . >> product
-1 >> GMs line of >> product
-1 >> line a >> phone
-1 >> line with 275000 >> product
-1 >> line in service. >> phone
-1 >> dedicated line . >> phone
-1 >> the line just >> phone
-1 >> line and one >> phone
-1 >> Inc.s Ziari line >> product
-1 >> 1800 line in >> phone
-1 >> line ? >> phone
-1 >> emergency line >> phone
-1 >> of Suns line >> product
-1 >> Kids line could >> product
-1 >> Suns line >> product
-1 >> line will take >> product
-1 >> exclusive line >> product
-1 >> X-rated line . >> phone
-1 >> jewelry line >> product
-1 >> perfume line >> product
-1 >> their telephone line >> phone
-1 >> 24 line and >> phone
-1 >> line while >> phone
-1 >> line at more >> product
-1 >> line from the >> phone
-1 >> more telephone line >> phone
-1 >> all its line >> product
-1 >> line of precision >> product
-1 >> line no doubt >> phone
-1 >> line grew >> phone
-1 >> line products sold >> product
-1 >> line says Steven >> phone
-1 >> the line is >> phone
-1 >> private telephone line >> phone
-1 >> The rail-intermodal line >> product
-1 >> the line and >> phone
-1 >> crossed line . >> phone
-0 >> the line in >> product
-1 >> Clarion line have >> product
-1 >> womens line where >> product
-0.693147180559945 >> line have >> product
-1 >> line recently caused >> phone
-1 >> food line to >> product
-1 >> integrated line of >> product
-1 >> line of software >> product
-1 >> product line particularly >> product
-1 >> line just to >> phone
-1 >> advertised line . >> product
-1 >> on another line >> phone
-1 >> complete line >> product
-1 >> chat line >> phone
-1 >> line and conduct >> phone
-1 >> secure telephone line >> phone
-1 >> line was that >> phone
-1 >> Lancome line are >> product
-1 >> its Carleton line >> product
-1 >> line open for >> phone
-1 >> $1.69 line of >> product
-1 >> consumer-products line there >> product
-1 >> line mainly in >> phone
-1 >> broader line but >> product
-1 >> Patch Kids line >> product
-1 >> line of mainframes >> product
-1 >> telephone- line increase >> phone
-1 >> line this >> product
-1 >> line 2 machines >> product
-1 >> for the line >> product
-1 >> IBM PS/2 line >> product
-1 >> pay subscriber line >> phone
-1 >> line increased 2.4% >> phone
-1 >> line light up. >> phone
-1 >> building-materials line >> product
-1 >> the apparel line >> product
-1 >> huge line >> product
-1 >> line and properties >> product
-1 >> that line >> phone
-1 >> Cougar line >> product
-1 >> filter line >> product
-1 >> of access line >> phone
-1 >> for a line >> product
-1 >> line there >> product
-1 >> line are expected >> product
-1 >> line from Crystal >> product
-1 >> line growth by >> phone
-1 >> line recently >> phone
-1 >> line was busy >> phone
-1 >> line and its >> product
-1 >> line grew 3.5% >> phone
-1 >> shedding some line >> product
-1 >> on the line >> phone
-1 >> drink line . >> product
-1 >> The optometric line >> product
-1 >> line . <p> >> phone
-1 >> extending line >> phone
-1 >> line Crays >> product
-1 >> the line a >> phone
-1 >> line charges and >> phone
-1 >> line of frozen >> product
-1 >> line of cherubic >> product
-1 >> crossed line >> phone
-1 >> outside line >> phone
-1 >> PS/2 line are >> product
-1 >> line played at >> phone
-1 >> Atlas line >> product
-1 >> access line in >> phone
-1 >> current line >> product
-1 >> the {product} line >> product
-1 >> Hollywoods dreamboat line >> product
-1 >> Jeep line which >> product
-1 >> party line . >> phone
-1 >> line pacing >> product
-1 >> Edmonton the line >> phone
-1 >> midrange product line >> product
-1 >> Suns line and >> product
-1 >> line showed >> product
-1 >> lastest line >> product
-1 >> line lets call >> phone
-1 >> line by 2.5% >> product
-1 >> Zytel line >> product
-1 >> products line so >> product
-1 >> renting communications line >> phone
-1 >> the line to >> phone
-1 >> line at once >> phone
-1 >> credit line >> product
-1 >> non-food line . >> product
-1 >> one-on-one line like >> phone
-1 >> full line under >> product
-1 >> Macintosh line rose >> product
-1 >> because its line >> product
-1 >> product line will >> product
-1 >> private line and >> phone
-1 >> 3600 line at >> phone
-1 >> line once >> phone
-1 >> line to his >> phone
-1 >> software line pacing >> product
-1 >> The line went >> phone
-1 >> line a new >> phone
-1 >> complete menswear line >> product
-1 >> American tire line >> product
-1 >> line anymore laments >> product
-1 >> line open >> phone
-1 >> the line with >> phone
-1 >> line ; >> product
-1 >> nail-polish line . >> product
-1 >> adult diaper line >> product
-1 >> a similar line >> product
-1 >> marketing line and >> product
-1 >> struggling line was >> product
-1 >> line while Mr. >> phone
-1 >> Corsica line >> product
-1 >> an outside line >> phone
-1 >> and a line >> product
-1 >> line Crays spokesman >> product
-0.693147180559945 >> line will >> product
-1 >> main computer line >> product
-1 >> line because Noxell >> product
-1 >> and line >> phone
-1 >> telephone line >> phone
-1 >> foreign exchange line >> phone
-1 >> markets a line >> product
-1 >> its car line >> product
-1 >> latest line >> product
-1 >> dropping the line >> product
-1 >> the line Fuqua >> phone
-1 >> specialized line >> product
-1 >> line of shoes >> product
-1 >> toll-free complaint line >> phone
 1 >> Amiga line of >> product
-1 >> marketing line >> product
-1 >> old line of >> product
-1 >> luxury-car line may >> product
-1 >> line increased >> phone
-1.09861228866811 >> line is >> product
-1 >> office-equipment line >> product
-1 >> R1 line made >> product
-1 >> line of frozen-cheese >> product
-1 >> line she >> product
-1 >> of several line >> product
-1 >> from his line >> product
-1 >> the acquired line >> product
-1 >> Jeep line >> product
-2.19722457733622 >> new line >> product
-0.693147180559945 >> line they >> phone
-1 >> line and then >> phone
-1 >> line and gab >> phone
-1 >> 900 telephone line >> phone
-1 >> Dr. Denton line >> product
-1 >> line of nylon >> product
-1 >> machinery line fell >> product
-1 >> car line anymore >> product
-1 >> Transformers line ; >> product
-1 >> line the company >> product
-1 >> line recently got >> phone
-1 >> line of laptop >> product
-1 >> line yesterday >> phone
-1 >> long-awaited line of >> product
-1 >> million line >> phone
-1 >> customer line a >> phone
-1 >> this line >> phone
-1 >> line Bally >> product
-1 >> in line ranging >> product
-1 >> product line but >> product
-1 >> its full line >> product
-1 >> line increase >> phone
-1 >> Megaquests bisexual line >> phone
-1 >> establish the line >> product
-1 >> $1.69 line >> product
-1 >> line charges. </s> >> phone
-1 >> with a line >> product
-1 >> line no >> phone
-1 >> car line by >> product
-1.09861228866811 >> line are >> product
-1 >> off the line >> phone
-1 >> line is in >> phone
-1 >> line in China >> phone
-1 >> create a line >> product
-1 >> line of minicomputers >> product
-1 >> line growth >> phone
-1 >> computer line built >> product
-1 >> radio line >> phone
-1 >> old line >> product
-1 >> Spectrum line >> product
-1 >> line of Halloween >> product
-1 >> line under its >> product
-1 >> the line that >> phone
-1 >> Lanterns line >> product
-1 >> trading line to >> phone
-1 >> consumer products line >> product
-0 >> line so >> phone
-1 >> line they had >> phone
-1 >> line played >> phone
-1 >> in subscriber line >> phone
-1 >> line that might >> phone
-1 >> line dialed >> phone
-1 >> line so I >> phone
-1 >> such line will >> product
-1 >> line proprietors Megaquest >> phone
-1 >> Oh Lanterns line >> product
-1 >> 50000 line >> phone
-1 >> between car line >> product
-1 >> line planned for >> product
-1 >> tip line are >> phone
-1 >> military line of >> product
-1 >> telephone line over >> phone
-1 >> its aerospace line >> product
-1 >> line anymore >> product
-1 >> line adapters CIP >> phone
-1 >> line according >> phone
-1 >> read the line >> product
-1 >> Prix line >> product
-1 >> phone whose line >> phone
-1 >> the health-club line >> product
-1 >> party line >> phone
-1 >> the Hospital line >> phone
-1 >> the line lets >> phone
-1 >> car line Mr. >> product
-1 >> line jumped >> phone
-1 >> trading line yesterday >> phone
-1 >> information line appealing >> phone
-1 >> access line . >> phone
-1 >> its line >> product
-1 >> line during >> phone
-1 >> Cougar line . >> product
-1 >> subscriber- line charge >> phone
-1 >> latest line . >> product
-1 >> 15700 access line >> phone
-1 >> line had sales >> product
-1 >> over telephone line >> phone
-1 >> line lets >> phone
-1 >> A line >> product
-1 >> line of mammography >> product
-1 >> line that supplement >> product
-1 >> line while a >> phone
-1 >> cracker line and >> product
-1 >> Zytel line of >> product
-1 >> The GM-10 line >> product
-1 >> line from Monteil >> product
-1 >> line Ive >> phone
-1 >> another line >> phone
-1 >> dreamboat line >> product
-1 >> line fell 2 >> product
-1 >> its new line >> product
-1 >> 442000 line >> phone
-1 >> torpedo line . >> product
-1 >> testing a line >> product
 1 >> extending line to >> phone
-1 >> clogged telephone line >> phone
-1 >> under the line >> product
-1 >> toll-call party line >> phone
-1 >> most important line >> phone
-1 >> rail-intermodal line >> product
-1 >> important line ! >> phone
-1 >> line but no >> phone
-1 >> diagnostics line >> product
-1 >> the struggling line >> product
-1 >> dedicated line >> phone
-1 >> another telephone line >> phone
-1 >> keep a line >> phone
-1 >> <s> Business line >> phone
-1 >> line to survive >> product
-1 >> sturdy 3X line >> product
-1 >> line in service >> phone
-1 >> line the poorest >> phone
+1 >> that those line >> product
+1 >> sewing line >> product
+1 >> line of mens >> product
+1 >> sex line >> phone
+1 >> line sir . >> phone
+1 >> gab line once >> phone
+1 >> line first as >> phone
+1 >> cereal line with >> product
 1 >> Prix line is >> product
-1 >> line over >> phone
-1 >> line wont >> product
+1 >> line to investment >> phone
+1 >> PC line >> product
+1 >> line it >> product
+1 >> gab- line >> phone
+1 >> a new line >> product
+1 >> line proprietors >> phone
+1 >> million line in >> phone
+1 >> line this fall >> product
+1 >> line of auto >> product
+1 >> full line >> product
+1 >> line played at >> phone
+1 >> dedicated private line >> phone
+1 >> 442000 line in >> phone
+1 >> line that has >> phone
+1 >> line ! </s> >> phone
+1 >> older line products >> product
+1 >> computer line . >> product
+1 >> residential telephone line >> phone
+1 >> the line busy >> phone
+1 >> similar line >> product
+1 >> line and I >> product
+1 >> to $1.69 line >> product
+1 >> 911 emergency line >> phone
+1 >> the line making >> phone
+1 >> a line for >> product
+1 >> line a voice >> phone
+1 >> its integrated line >> product
+1 >> customer line grew >> phone
+1 >> another telephone line >> phone
+1 >> line during >> phone
+1 >> Keep this line >> phone
+1 >> companys line . >> product
+1 >> whose line were >> phone
+1 >> Prairie skin-care line >> product
+1 >> broader line >> product
+1 >> long-distance telephone line >> phone
+1 >> line under >> product
+1 >> marketing line and >> product
+1 >> line of PDP >> product
+1 >> Jaclyn Smith line >> product
+0 >> line in a >> product
+1 >> line and has >> phone
+1 >> this line >> phone
+1 >> line showed >> product
+1 >> customer line a >> phone
+1 >> Business line increased >> phone
+1 >> line called Healthy >> product
 1 >> line charge >> phone
-1 >> companys line >> product
-2.484906649788 >> line was >> phone
-1 >> previous line . >> product
-1 >> 500000 access line >> phone
+1 >> dead line but >> phone
+1 >> a line of >> product
+1 >> another line >> phone
+1 >> Jeep line which >> product
+0 >> line into the >> product
+1 >> line and perhaps >> product
+1 >> 24 line >> phone
+1 >> software line >> product
+1 >> million access line >> phone
+1 >> line to current >> phone
+1 >> because its line >> product
+1 >> office-equipment line . >> product
+1 >> more complete line >> product
+1 >> those line were >> product
 1 >> frozen food line >> product
 0.916290731874155 >> line that >> phone
-1 >> integrated line >> product
-1 >> their line said >> product
-1 >> line making a >> phone
-1 >> at line that >> product
-1 >> line were added >> phone
-1 >> the line for >> phone
-1 >> line sir >> phone
-1 >> building the line >> product
-1 >> long-awaited line >> product
-1 >> specialized line of >> product
-1 >> diaper line in >> product
-1 >> older line >> product
-1 >> line over cellular >> phone
-1 >> soft drink line >> product
-1 >> {product} line >> product
-1 >> building-materials line the >> product
-1 >> Marx line to >> product
-1 >> computer line is >> product
-1 >> much broader line >> product
-1 >> specialty-food line . >> product
-1 >> whose line were >> phone
-1 >> line during the >> phone
-1 >> Chevrolet Corsica line >> product
-1 >> Brands other line >> product
-1 >> on your line >> phone
-1 >> the line as >> product
-1 >> and Transformers line >> product
-1 >> similar line called >> product
-1 >> line of auto >> product
-1 >> information line >> phone
-1 >> the gab line >> phone
-1 >> over ordinary line >> phone
-1 >> line in Britain >> phone
-1 >> line of more >> product
-1 >> bisexual line >> phone
-1 >> car line >> product
-1 >> in sex line >> phone
-1 >> 3600 line >> phone
-1 >> 600 camera line >> product
-1 >> open radio line >> phone
-1 >> chemicals line >> product
-1 >> sewing line >> product
-0 >> line for >> product
-1 >> your line and >> phone
-1 >> dedicated private line >> phone
-1 >> says clogged line >> phone
-1 >> customer access line >> phone
-1 >> line adapters >> phone
-1 >> new line to >> phone
-1 >> computer line wont >> product
-1 >> telephone access line >> phone
-1 >> up the line >> phone
-1 >> line last month >> product
-1 >> certain Atlas line >> product
-1 >> line said >> product
-1 >> a line open >> phone
-1 >> telephone line to >> phone
-1 >> about 442000 line >> phone
-1 >> line yesterday possibly >> phone
-1 >> the womens line >> product
-1 >> line with the >> phone
-1 >> Ziari line of >> product
-1 >> 3X line with >> product
-1 >> produces a line >> product
-1 >> line ranging >> product
-1 >> line charges >> phone
-1 >> line of aircraft >> product
-1 >> party- line >> phone
-1 >> lucrative military line >> product
-1 >> food line . >> product
-1 >> rail-intermodal line which >> product
-1.94591014905531 >> <s> The line >> phone
-1 >> line used >> phone
-1 >> microprocessor line . >> product
+1 >> line and conduct >> phone
+1 >> telephone line in >> phone
 1 >> current car line >> product
-1 >> equipment line are >> product
-1 >> subscriber line charges. >> phone
-1 >> X-rated line >> phone
-1 >> car line making >> product
-1 >> line rose >> product
-1 >> products line had >> product
-1 >> line of Millionaires >> phone
-1 >> line if he >> phone
-1 >> York telephone line >> phone
-1 >> line or >> phone
-1 >> time GMs line >> product
-1 >> the new line >> product
-1 >> this line open >> phone
-1 >> PC line wouldnt >> product
-1 >> million line in >> phone
-1 >> just at line >> product
-1 >> produce a line >> product
-1 >> 570000 line >> phone
-1 >> tip line >> phone
-1 >> line is suddenly >> phone
-1 >> line of personal >> product
-1 >> running gab line >> phone
-1 >> 16000 new line >> phone
-1 >> popular line >> product
-1 >> about 3600 line >> phone
-1 >> a car line >> product
-1 >> line and in >> product
-1 >> gab- line proprietors >> phone
-1 >> access line grew >> phone
-1 >> non-food line >> product
-1 >> but all line >> phone
-1 >> 442000 line in >> phone
-1 >> similar line and >> product
-1 >> a dead line >> phone
-1 >> a line into >> product
-1 >> womens line >> product
-1 >> no line >> phone
+1 >> keep the line >> phone
+1 >> line but many >> phone
+1 >> PS/2 line of >> product
 1 >> line and 48 >> phone
-1 >> computer line moved >> product
-1 >> Business line >> phone
-1 >> line went >> phone
-1 >> three line at >> product
-1.09861228866811 >> line -- >> phone
-1 >> its 1988-model line >> product
-1 >> the companys line >> product
-1 >> sources latest line >> product
-1 >> line of plush >> product
-1 >> new IBM line >> product
-1 >> line and to >> phone
-1 >> line and that >> product
-1 >> by direct line >> phone
-1 >> ground-coffee line >> product
-1 >> line was John >> phone
-1 >> his line be >> phone
-1 >> the subscriber- line >> phone
-1 >> telephone line jumped >> phone
-1 >> line that link >> phone
-1 >> companys car line >> product
-2.94443897916644 >> a line >> product
-1 >> of his line >> product
-1 >> out a line >> product
-1 >> such line >> product
-0.693147180559945 >> line making >> phone
-1 >> line so it >> product
-1 >> some future line >> product
-1 >> line that dozens >> phone
-1 >> Spectrum line has >> product
+1 >> open radio line >> phone
+1 >> no line >> phone
+1 >> line of stock. >> product
+1 >> hardware and line >> phone
+1 >> furniture line could >> product
+1 >> with line they >> phone
+1 >> million line >> phone
+1 >> its Zytel line >> product
+1 >> The line went >> phone
+1 >> new customer line >> phone
+1 >> the line no >> phone
+1 >> telephone line that >> phone
+1 >> PW4000 line have >> product
+1 >> line of nylon >> product
+1 >> Clarion line >> product
+1 >> line that it >> product
 1 >> line had >> product
-1 >> older line . >> product
-1 >> private line >> phone
-1 >> said access line >> phone
-1 >> line he said >> product
-1 >> line moved up >> product
-1 >> Colecos line >> product
-1 >> as 24 line >> phone
+1 >> Atlas line and >> product
+1 >> a similar line >> product
+1 >> line have reached >> product
+1 >> The rail-intermodal line >> product
+1 >> food line to >> product
+1 >> their line said >> product
+1 >> telephone line at >> phone
+1 >> exchange line . >> phone
+1 >> line increased 3.7% >> phone
+1 >> line as the >> product
+1 >> smaller specialty-food line >> product
+1 >> communications line to >> phone
+1 >> three telephone line >> phone
+1 >> dedicated telephone line >> phone
+1 >> skin-care line >> product
+1 >> Prix line >> product
+1 >> and nail-polish line >> product
+1 >> important line ! >> phone
+1 >> a chat line >> phone
+1 >> line busy >> phone
+1 >> Hospital line >> phone
+1 >> Calif. gab line >> phone
+1 >> 442000 line >> phone
+1 >> other marketing line >> product
+1 >> line of Chevrolet >> product
+1 >> & Marx line >> product
+0 >> line and a >> product
+1 >> line increase >> phone
+1 >> line was John >> phone
+1 >> 900 telephone line >> phone
+1 >> the old line >> product
+1 >> telephone line the >> phone
+1 >> line of older >> product
+1 >> see the line >> phone
+1 >> line if >> phone
+1 >> shedding some line >> product
+1 >> furniture line >> product
+1 >> using line they >> phone
+1 >> line was that >> phone
+1 >> diaper line >> product
+1 >> future line >> product
+1 >> line and then >> phone
+1.09861228866811 >> line which >> product
+1 >> telephone- line increase >> phone
+1 >> drink line . >> product
+1 >> create a line >> product
+1 >> integrated line >> product
+1 >> womens line >> product
+1 >> the three line >> product
+1 >> the companys line >> product
+1 >> line first >> phone
+1 >> line for its >> phone
+1 >> line were jammed >> phone
+1 >> line from Imperial >> product
+1 >> trading line >> phone
+1 >> line while a >> phone
+1 >> line grew >> phone
+1 >> consumer-products line >> product
+1 >> the line like >> phone
+1 >> the line it >> product
+1 >> a one-on-one line >> phone
+1 >> the line because >> product
+1 >> line with 275000 >> product
+1 >> Denton line >> product
+1 >> drink line >> product
+1 >> line a 4.2% >> phone
+1 >> telephone line jumped >> phone
+1 >> provide: gab line >> phone
+1 >> midrange product line >> product
+1 >> of the line >> phone
+1 >> its old line >> product
+1 >> companys diagnostics line >> product
+1 >> the other line >> phone
+1 >> acquired line to >> product
+1 >> luxury-car line may >> product
+1 >> huge line >> product
+1 >> old line >> product
+1 >> advertised line >> product
+1 >> its line 2 >> product
+1 >> complaint line and >> phone
+1 >> PS/2 line last >> product
+1 >> line making a >> phone
+1 >> toll-free telephone line >> phone
+0.693147180559945 >> line have >> product
+1 >> line through a >> product
+1 >> GM-10 line is >> product
+1 >> access line . >> phone
+1 >> line in service. >> phone
+1 >> line and so >> phone
+1 >> sellers in line >> product
+1 >> line said Richard >> product
+1 >> the microprocessor line >> product
+1 >> by direct line >> phone
+1.94591014905531 >> <s> The line >> phone
+1 >> menswear line . >> product
+1 >> residents whose line >> phone
+1 >> line mainly >> phone
+1 >> the line at >> phone
+1 >> line of stylish >> product
+1 >> ground-coffee line through >> product
+1 >> chemicals line from >> product
+1 >> perfume line Elizabeth >> product
+1 >> 24 line and >> phone
+1 >> some private line >> phone
+1 >> Ziari line >> product
+1 >> thousand access line >> phone
+1 >> previous line . >> product
+1 >> IBM line . >> product
+0.693147180559945 >> line making >> phone
+0 >> line so >> product
+1 >> line said >> product
+1 >> line ! >> phone
+1 >> IBM line >> product
+1 >> product line particularly >> product
+1 >> machinery line fell >> product
+1 >> II computer line >> product
+1 >> that extending line >> phone
+1 >> markets a line >> product
+1 >> the line and >> phone
+1 >> line were allegedly >> phone
+1 >> line she says. >> product
+1 >> IBM PS/2 line >> product
+1 >> $1.69 line of >> product
+1 >> of Colecos line >> product
+1 >> gab line have >> phone
+1 >> Lanterns line >> product
+1 >> line open ! >> phone
+1 >> its line by >> product
+1 >> its line . >> product
+1 >> many private- line >> phone
+1 >> the line into >> product
+1 >> health-club line >> product
+1 >> the line that >> phone
+1 >> largest telephone- line >> phone
+1 >> on that line >> phone
+1 >> line like they >> phone
+1 >> line could fetch >> product
+1 >> access line grew >> phone
+1 >> tried a line >> product
+1 >> line showed an >> product
+1 >> line by offering >> product
+1 >> telephone line according >> phone
+0 >> line making it >> phone
+1 >> line they still >> product
+1 >> initial filter line >> product
+1 >> line of Halloween >> product
+1 >> non-food line >> product
+1 >> line of computers >> product
+1 >> an outside line >> phone
+1 >> ground-coffee line >> product
+1 >> line by >> product
+1 >> telephone tip line >> phone
+1 >> car line at >> product
+1 >> line that cant >> phone
+1 >> $5 billion line >> product
+1 >> telephone line because >> phone
+1 >> 3X line >> product
+1 >> current line of >> product
+1 >> its car line >> product
+1 >> other consumer-products line >> product
+1 >> food line >> product
+1 >> its new line >> product
+1 >> line of Green >> product
+1 >> whose line was >> phone
+1 >> its office-equipment line >> product
+1 >> Pratts PW4000 line >> product
+1 >> trading line yesterday >> phone
+1 >> Smith line in >> product
+1 >> line of Limited >> product
+1 >> line of more >> product
+2.39789527279837 >> the line . >> phone
+1 >> the line he >> product
+1 >> Colecos line and >> product
+1 >> Lancome line are >> product
+1 >> a dead line >> phone
+1 >> on another line >> phone
+1 >> line through costly >> product
+1 >> line Bally could >> product
+1 >> optometric line were >> product
+1 >> line charges. </s> >> phone
+1 >> American tire line >> product
+1 >> in line ranging >> product
+1 >> line Crays spokesman >> product
+1 >> 50000 line >> phone
+1 >> filter line for >> product
+1 >> of Suns line >> product
+1 >> current line >> product
+1 >> consumer products line >> product
+1 >> cracker line and >> product
+1 >> line and its >> product
+1 >> phone whose line >> phone
+1 >> access line making >> phone
+1 >> 570000 line >> phone
+1 >> exclusive line of >> product
+1 >> keep a line >> phone
+1 >> the line says >> phone
+0.693147180559945 >> line last >> product
+1 >> Corp.s line >> product
+1 >> Hospital line was >> phone
+1 >> line Crays >> product
+1 >> line yesterday possibly >> phone
+1 >> access line increased >> phone
+1 >> new luxury-car line >> product
+1 >> line effect >> phone
+1 >> four telephone line >> phone
+1 >> similar line called >> product
+1 >> gab line that >> phone
+1 >> Spectrum line >> product
+1 >> billion line >> product
+1 >> its long-awaited line >> product
+1 >> specialty-food line >> product
+1 >> Corp.s PS/2 line >> product
+1 >> Lexus line >> product
+1 >> an open line >> phone
+1 >> line a new >> phone
+1 >> line was busy >> phone
+1 >> line adapters >> phone
+1 >> Business line >> phone
+1 >> Transformers line ; >> product
 1 >> line increase ever >> phone
+0.693147180559945 >> line the >> phone
+1 >> luxury-car line >> product
+1 >> 50000 line . >> phone
+1 >> much broader line >> product
+1 >> already huge line >> product
+1 >> old line of >> product
+1 >> Corp.s line of >> product
+1 >> line of Captain >> product
+1 >> Cougar line . >> product
+1 >> line Fuqua remarks >> phone
+1 >> Grand Prix line >> product
+1 >> information line >> phone
+1 >> IBM PC line >> product
+1 >> line charge by >> phone
+1 >> long-awaited line >> product
+1 >> products a line >> product
+1 >> exchange line >> phone
+1 >> Fox line . >> product
+1 >> other line . >> product
+1 >> line according >> phone
+1 >> line and that >> product
+1 >> emergency line played >> phone
+1 >> Edmonton the line >> phone
+1 >> line which has >> product
+1 >> line no doubt >> phone
+1 >> line made >> product
+1 >> line light >> phone
+1 >> office-equipment line >> product
+1 >> line of precision >> product
+1 >> new perfume line >> product
+1 >> crossed line . >> phone
+1 >> this line open >> phone
+1 >> line of software >> product
+1 >> the line light >> phone
+1 >> just at line >> product
+1 >> line during the >> phone
+0.773189888233482 >> line to >> phone
+1 >> line rose 130% >> product
+1 >> line of high-end >> product
+1 >> such line >> product
+1 >> submarine-seeking torpedo line >> product
+1 >> R1 line >> product
+1 >> <@> <s> line >> phone
+1 >> a popular line >> product
+1 >> line where fashionability >> product
+1 >> sex line and >> phone
+0 >> the line in >> phone
+1 >> line that might >> phone
+1 >> says clogged line >> phone
+1 >> line or that >> phone
+1 >> the previous line >> product
+1 >> line ranging from >> product
+1 >> read the line >> product
+1 >> older line >> product
+1 >> some future line >> product
+1 >> line grew by >> phone
+0.693147180559945 >> line with >> product
+1 >> Colecos line >> product
+1 >> acquired food line >> product
+1 >> line included the >> product
+1 >> building the line >> product
+1 >> software line pacing >> product
+1 >> three line >> product
+1 >> line used >> phone
+1 >> line such as >> product
+1 >> specialized line >> product
+1 >> access line growth >> phone
+1 >> personal computer line >> product
+1 >> telephone line increased >> phone
+1 >> line Ive >> phone
+1 >> line of plastic >> product
+1.09861228866811 >> line -- >> phone
+1 >> perfume line >> product
+1 >> line dialed >> phone
+1 >> line which consists >> product
+1 >> line of midpriced >> product
+1 >> line products >> product
+1 >> another line . >> phone
+1 >> line mainly in >> phone
+1 >> and line >> phone
+1 >> than 570000 line >> phone
+1 >> line were out >> phone
+1 >> telephone line and >> phone
+1.86075234071501 >> the line >> phone
+1 >> line Fuqua >> phone
+1 >> nationally advertised line >> product
+1 >> products line had >> product
+1 >> line will continue >> product
+1 >> line moved up >> product
+1 >> line busy for >> phone
+1 >> the party line >> phone
+1 >> soft drink line >> product
+1 >> line has been >> product
+0 >> line but >> phone
+1 >> complete line of >> product
+1 >> through telephone line >> phone
+1 >> and truck line >> product
+1 >> line were added >> phone
+1 >> one-on-one line like >> phone
+1 >> line just >> phone
+1 >> The furniture line >> product
+1 >> line to record >> phone
+1 >> the building-materials line >> product
+1 >> George line >> product
+1 >> line will take >> product
+1 >> R1 line made >> product
+1 >> line of jockey >> product
+1 >> line and swore >> phone
+1 >> line last month >> product
+1 >> computer line is >> product
+1 >> or asynchronous line >> phone
+1 >> the line just >> phone
+1 >> $1.69 line >> product
+1 >> line be >> phone
+1 >> produces a line >> product
+1 >> line and leaves >> phone
+1 >> entry-level Fox line >> product
+1 >> under the line >> product
+1 >> bisexual line >> phone
+1 >> the line with >> phone
+1 >> line of personal >> product
+1 >> line 2 machines >> product
+1 >> line to order >> phone
+1 >> cereal line >> product
+1 >> line has >> product
+1 >> manufacture a line >> product
+1 >> telephone line . >> phone
+1 >> and a line >> product
+1 >> said access line >> phone
+1 >> line of mid-sized >> product
+1 >> mostly older line >> product
+1 >> line which rose >> product
+1 >> line from Monteil >> product
+1 >> as 24 line >> phone
+1 >> some line . >> product
+1 >> open line >> phone
+1 >> Clarion line have >> product
+1 >> line and one >> phone
+1 >> Carleton line of >> product
+1 >> line fell 2 >> product
+1 >> chemicals line >> product
+1 >> the line went >> phone
+0.693147180559945 >> line they >> phone
+1 >> line to Kraft >> product
+1 >> in sex line >> phone
+1 >> tire line >> product
+1 >> aerospace line >> product
+1 >> line of deluxe >> product
+1 >> new product line >> product
+1 >> and cracker line >> product
+1 >> food line . >> product
+1 >> GMs line of >> product
+1 >> line to be >> product
+1 >> 1800 line >> phone
+1 >> the line sir >> phone
+1 >> fragrance line from >> product
+1 >> line growth >> phone
+2.19722457733622 >> new line >> product
+1 >> its microprocessor line >> product
+1 >> Atlas line >> product
+1 >> While such line >> product
+1 >> private line . >> phone
+1 >> more telephone line >> phone
+1 >> IBMs lastest line >> product
+1 >> switched the line >> phone
+1 >> you the line >> phone
+1 >> truck line through >> product
+1 >> line like the >> phone
+1 >> using line >> phone
+1 >> access line the >> phone
+1 >> line particularly >> product
+1 >> Cougar line >> product
+1 >> line of Japanese-made >> product
+1 >> the tip line >> phone
+1 >> from his line >> product
+1 >> line open for >> phone
+1 >> line in service >> phone
+1 >> car line Mr. >> product
+1 >> private line and >> phone
+1 >> line Mr. >> product
+1 >> VAX line has >> product
+1 >> the struggling line >> product
+1 >> line the poorest >> phone
+1 >> crossed line >> phone
+1 >> line to their >> phone
+1 >> luxury Lexus line >> product
+1 >> line and Ill >> phone
+1 >> line rose >> product
+1 >> information line appealing >> phone
+1 >> line he >> product
+1 >> subscriber line charges. >> phone
+1 >> the line but >> phone
+1 >> tire line . >> product
+1 >> the line as >> product
+1 >> cracker line >> product
+1 >> line said its >> product
+1 >> between car line >> product
+1 >> all its line >> product
+1 >> old line -- >> product
+1 >> the line to >> phone
+1 >> popular car line >> product
+1 >> line may not >> product
+1 >> line to tie >> phone
+1 >> line to about >> phone
+1 >> latest line >> product
+1 >> future line Hormel >> product
+1 >> their trading line >> phone
+1 >> skin-care line is >> product
+1 >> Lancome line >> product
+1 >> line of aircraft >> product
+1 >> line in 1985 >> product
+1 >> line at Chevrolet >> product
+1 >> the subscriber- line >> phone
+1 >> line went >> phone
+1 >> line Elizabeth Taylors >> product
+1 >> complete menswear line >> product
+1 >> new line to >> phone
+1 >> line open >> phone
+1 >> Zytel line >> product
+1 >> expand their line >> product
+1 >> line but they >> product
+1 >> line a >> phone
+1 >> line used in >> phone
+1 >> an exclusive line >> product
+1 >> most important line >> phone
+1 >> line growth since >> phone
+1 >> all line were >> phone
+1 >> line of mainframes >> product
+1 >> line of coronary >> product
+1 >> line this >> product
+1 >> only 50000 line >> phone
+1 >> latest line . >> product
+1 >> with line >> phone
+2.484906649788 >> line was >> phone
+1 >> gab- line proprietors >> phone
+1 >> the new line >> product
+1 >> trading line to >> phone
+1 >> line and sales >> product
+1 >> line they deem >> phone
+1 >> diaper line in >> product
+1 >> line sir >> phone
+1 >> 4.5% access line >> phone
+1 >> line ; >> product
+1 >> sentence the line >> phone
+1 >> line appealing >> phone
+1 >> consumer-products line there >> product
+1 >> its non-food line >> product
+1 >> camera line which >> product
+1 >> all line >> phone
+1 >> telephone line or >> phone
+0.693147180559945 >> line into >> product
+1 >> line in China >> phone
+1 >> its skin-care line >> product
+1 >> apparel line . >> product
+1 >> private- line >> phone
+1 >> The line planned >> product
+1 >> sewing line they >> product
+1 >> telephone line over >> phone
+1 >> line light up. >> phone
+1 >> line of frozen-cheese >> product
+1 >> in line >> product
+1 >> line Elizabeth >> product
+1 >> X-rated line >> phone
+1 >> romance line >> phone
+1 >> the {product} line >> product
+1 >> private telephone line >> phone
+1 >> those line >> product
+1 >> full line of >> product
+1 >> complete line >> product
+1 >> Fox line >> product
+1 >> emergency line >> phone
+1 >> whose line >> phone
+1 >> renting communications line >> phone
+1 >> line of cherubic >> product
+1 >> of telephone line >> phone
+1 >> product line but >> product
+1 >> {product} line >> product
+1 >> the health-club line >> product
+1 >> necessary telephone line >> phone
+1 >> product line >> product
+1 >> line in Britain >> phone
+1 >> nail-polish line >> product
+1 >> line from Crystal >> product
+1 >> line to his >> phone
+1 >> launch a line >> product
+1 >> A line >> product
+1 >> that line >> phone
+1 >> line into a >> product
+1 >> bisexual line recently >> phone
+1 >> up the line >> phone
+1 >> car line anymore >> product
+1 >> the line is >> phone
+4.02535169073515 >> line of >> product
+1 >> subscriber- line charge >> phone
+1 >> <s> A line >> product
+1 >> Macintosh line rose >> product
+1 >> other gab- line >> phone
+1 >> shoe line >> product
+1 >> line be tapped >> phone
+1 >> line yesterday >> phone
+1 >> line of frozen >> product
+1 >> line went dead >> phone
+0.0317486983145803 >> line . >> product
+1 >> car line >> product
+1 >> line of clothing >> product
+1 >> line because Noxell >> product
+2.94443897916644 >> a line >> product
+1 >> The GM-10 line >> product
+1 >> Jeep line >> product
+1 >> off the line >> phone
+1 >> line 2 >> product
+1 >> the line a >> phone
+1 >> telephone line to >> phone
+1 >> the line lets >> phone
+1.09861228866811 >> line from >> product
+1 >> their telephone line >> phone
+1 >> products line >> product
+1 >> line to a >> product
+1 >> line like >> phone
+1 >> its line >> product
+1 >> pay subscriber line >> phone
+1 >> tip line that >> phone
+1 >> for direct line >> phone
+1 >> foreign exchange line >> phone
+1 >> outside line >> phone
+1 >> and R1 line >> product
+1 >> similar line and >> product
+1 >> three line at >> product
+1 >> line to survive >> product
+1 >> customer line >> phone
+1 >> the line was >> phone
+1 >> Lanterns line of >> product
+1 >> asynchronous line . >> phone
+1 >> The line was >> phone
+1 >> a full line >> product
+1 >> adult diaper line >> product
+1 >> car line making >> product
+1 >> extending line >> phone
+1 >> line could >> product
+1 >> some line and >> product
+1 >> telephone access line >> phone
+1 >> full line under >> product
+1 >> line is suddenly >> phone
+1 >> Zytel line of >> product
+1 >> billion line of >> product
+1 >> line and involving >> product
+1 >> important line >> phone
+1 >> direct line >> phone
+1 >> for a line >> product
+1 >> line recently got >> phone
+1 >> credit line to >> product
+1 >> private line >> phone
+1 >> the line between >> phone
+1 >> at line that >> product
+1 >> chat line >> phone
+1 >> line such >> product
+1 >> radio line >> phone
+1 >> line between them >> phone
+1 >> line he said >> product
+1 >> existing product line >> product
+1 >> line is still >> product
+1 >> over ordinary line >> phone
+1 >> mid-range computer line >> product
+1 >> line that supplement >> product
+1 >> line recently >> phone
+1 >> line of plush >> product
+1 >> Marx line to >> product
+1 >> line is substantially >> product
+1 >> microprocessor line . >> product
+1 >> Corsica line >> product
+1 >> 600 camera line >> product
+1 >> dozen telephone line >> phone
+1 >> Denton line of >> product
+1 >> specialty-food line . >> product
+1 >> about 442000 line >> phone
+1 >> line to the >> phone
+1 >> line the worst >> phone
+1 >> line because children >> phone
+1 >> Choice software line >> product
+1 >> line played >> phone
+1 >> its Carleton line >> product
+1 >> line of beds >> product
+1 >> 16000 new line >> phone
+1 >> 570000 line mainly >> phone
+1 >> line over cellular >> phone
+1 >> telephone line of >> phone
+1 >> line included >> product
+1 >> optometric line >> product
+1 >> several line >> product
+1 >> sturdy 3X line >> product
+1 >> rail-intermodal line >> product
+1 >> line at once >> phone
+1 >> its computer line >> product
+0.693147180559945 >> line will >> product
+1 >> line proprietors Megaquest >> phone
+1 >> {product} line she >> product
+1 >> line built around >> product
+1 >> VAX line >> product
+1 >> the telephone line >> phone
+1 >> line while >> phone
+1 >> Transformers line >> product
+1 >> line just to >> phone
+1 >> marketing line >> product
+1 >> line jumped 6.8% >> phone
+1 >> line was scrapped. >> product
+1 >> toll-free complaint line >> phone
+1 >> lost the line >> phone
+1 >> private- line and >> phone
+1 >> time GMs line >> product
+1 >> eye-care products line >> product
+1 >> line were hurt >> product
+1 >> certain Atlas line >> product
+1 >> torpedo line >> product
+1 >> line grew 2.5% >> phone
+1 >> Montana fragrance line >> product
+1 >> 1988-model line this >> product
+1 >> unsecured line while >> phone
+1 >> outside line dialed >> phone
+1 >> companys line >> product
+1 >> line of laptop >> product
+1 >> fragrance line >> product
+1 >> subscriber line >> phone
+1 >> information line which >> phone
+0.0645385211375712 >> line . </s> >> product
+1 >> Would his line >> phone
+1 >> with the line >> product
+1 >> line growth in >> phone
+1 >> line planned for >> product
+1 >> diagnostics line >> product
+1 >> athletic shoe line >> product
+1 >> but all line >> phone
+1 >> line from the >> phone
+1 >> line -- voices >> phone
+1 >> telephone line during >> phone
+1 >> microprocessor line >> product
+1 >> such line will >> product
+1 >> line noise >> phone
+1 >> telephone line grew >> phone
+1 >> 32 computer line >> product
+1 >> line for the >> product
+1 >> jewelry line from >> product
+1 >> about 1800 line >> phone
+1 >> health-club line Bally >> product
+1 >> radio line and >> phone
+1 >> its aerospace line >> product
+1 >> line no >> phone
+1 >> line to maybe >> phone
+1 >> line is just >> product
+1 >> line wont help >> product
+1 >> new line of >> product
+1 >> access line were >> phone
+1 >> highest-volume car line >> product
+1 >> Nabiscos cereal line >> product
+0.916290731874155 >> line were >> phone
+1 >> line charges. >> phone
+1 >> broaden its line >> product
+1 >> line with its >> product
+1 >> New customer line >> phone
+1 >> Marx line >> product
+1 >> and Clarion line >> product
+1 >> line of trucks >> product
+1 >> basic chemicals line >> product
+1 >> line is capable >> product
+1 >> line under its >> product
+1 >> The party- line >> phone
+1 >> the apparel line >> product
+1 >> Suns line >> product
+1 >> line lets call >> phone
+1 >> line was still >> phone
+1 >> sources latest line >> product
+1 >> line of General >> product
+1 >> PS/2 line are >> product
+1 >> the line Fuqua >> phone
+0.405465108108164 >> line at >> phone
+1 >> line had sales >> product
+1.09861228866811 >> line are >> product
+1 >> diagnostics line showed >> product
+1 >> line of mid-size >> product
+1 >> car line . >> product
+1 >> The credit line >> product
+1 >> line there including >> product
+1 >> line wont >> product
+1 >> his line be >> phone
+1 >> clogged line recently >> phone
+1 >> line appealing for >> phone
+1 >> for some line >> product
+1 >> PW4000 line >> product
+1 >> <s> These line >> product
+1 >> line she >> product
+1 >> new telephone line >> phone
+1 >> broader line but >> product
+1 >> struggling line >> product
+1 >> Digitals VAX line >> product
+1 >> and romance line >> phone
+1 >> These line >> product
+1 >> line increased >> phone
+1 >> the line first >> phone
+1 >> line and gab >> phone
+1 >> excavation equipment line >> product
+1 >> line effect could >> phone
+1 >> its ground-coffee line >> product
+1 >> line of minicomputers >> product
+1 >> priced line >> product
+1 >> and Cougar line >> product
+1 >> 3X line with >> product
+1 >> 10 million line >> phone
+1 >> toll-free line for >> phone
+1 >> line of grotesque >> product
+1 >> Ziari line of >> product
+1 >> and the line >> phone
+1 >> military line >> product
+1 >> line and Centrex >> phone
+1 >> open line to >> phone
+1 >> line there >> product
+1 >> party- line effect >> phone
+1 >> BRIEFS: A line >> product
+1 >> non-food line . >> product
+1 >> over telephone line >> phone
+1 >> line Ive heard >> phone
+1 >> 3600 line >> phone
+1 >> its VAX line >> product
+1 >> filter line >> product
+1 >> line says Steven >> phone
+1 >> line have been >> phone
+1 >> product line will >> product
+1 >> clogged the line >> phone
+1 >> line they had >> phone
+1 >> computer line wont >> product
+1 >> line that dozens >> phone
+1 >> computer line and >> product
+1 >> line where >> product
+1 >> new IBM line >> product
+1 >> equipment line >> product
+1 >> gab line last >> phone
+1 >> agricultural machinery line >> product
+1 >> from older line >> product
+1 >> <s> line >> phone
+0.405465108108164 >> line and >> phone
+1 >> line of oversize >> product
+1 >> customer access line >> phone
+1 >> some line >> product
+1 >> party- line >> phone
+1 >> to crossed line >> phone
+1 >> priced line of >> product
+1 >> the line so >> phone
+1 >> line to Cincinnati-based >> product
+1 >> the acquired line >> product
+1 >> a line into >> product
+1 >> and Transformers line >> product
+1 >> the line for >> phone
+1 >> line are likely >> product
+1 >> party line a >> phone
+1 >> line and properties >> product
+1 >> Inc.s Macintosh line >> product
+1 >> dead line >> phone
+1 >> ordinary line . >> phone
+1 >> rail-intermodal line which >> product
+1 >> Dr. Denton line >> product
+1 >> A line of >> product
+1 >> direct line to >> phone
+1 >> PS/2 line as >> product
+1 >> line are Wall >> phone
+1 >> companys car line >> product
+1 >> Oh Lanterns line >> product
+1 >> its PS/2 line >> product
+1 >> line adapters CIP >> phone
+1 >> Corsica line . >> product
+1 >> <s> line will >> phone
+1 >> line was dead >> phone
+1 >> direct trading line >> phone
+1 >> line once >> phone
+1 >> other line ? >> phone
+1 >> his line of >> product
+0 >> line called >> product
+1 >> line Hormel carries >> product
+1 >> a direct line >> phone
+1 >> previous line >> product
+1 >> line and to >> phone
+1 >> unsecured line >> phone
+1 >> line of computers. >> product
+1 >> womens line where >> product
+1 >> several line such >> product
+1 >> line anymore >> product
+1 >> line and in >> product
+1 >> dreamboat line >> product
+1 >> access line in >> phone
+1 >> marketing line said >> product
+1 >> is no line >> phone
+1 >> subscriber- line >> phone
+1 >> line it had >> product
+1 >> Abex Corp.s line >> product
+1 >> of jewelry line >> product
+1 >> line jumped >> phone
+1 >> line with the >> phone
+1 >> Inc.s Lancome line >> product
+1 >> aerospace line . >> product
+1 >> his line to >> product
+1 >> specialized line of >> product
+1 >> consumer information line >> phone
+1 >> telephone line into >> phone
+1 >> over the line >> phone
+1 >> tip line are >> phone
+1 >> Suns line and >> product
+1 >> skin-care line last >> product
+1 >> line of mammography >> product
+1 >> line once talked >> phone
+1 >> of several line >> product
+1 >> 1800 line in >> phone
+1 >> integrated line of >> product
+1 >> older line . >> product
+1 >> products line so >> product
+1 >> military line of >> product
+1 >> line at more >> product
+1 >> computer line moved >> product
+1 >> its current line >> product
+1 >> line over >> phone
+1 >> line pacing the >> product
+1 >> line are well >> product
+1 >> line wouldnt still >> product
+1 >> and telephone line >> phone
+0.693147180559945 >> his line >> product
+1 >> line so it >> product
+1 >> telephone line -- >> phone
+1 >> line for you >> phone
+1 >> business with line >> phone
+1 >> or dedicated line >> phone
+1 >> Amiga line >> product
+1 >> outside line and >> phone
+1 >> running gab line >> phone
+1 >> PC line wouldnt >> product
+1 >> introduced a line >> product
+1 >> line moved >> product
+1 >> advertised line . >> product
+1 >> line the company >> product
+1 >> subscriber line charges >> phone
+1 >> business telephone line >> phone
+1 >> reasonably priced line >> product
+1 >> line ? >> phone
+1 >> line noise as >> phone
+1 >> romance line . >> phone
+1 >> long-awaited line of >> product
+1 >> The Spectrum line >> product
+1 >> lucrative military line >> product
+1 >> line at the >> phone
+1 >> its sewing line >> product
+1 >> computer line >> product
+1 >> drilling bit line >> product
+1 >> bit line >> product
+0.693147180559945 >> line in >> phone
+1 >> an unsecured line >> phone
+1 >> New telephone line >> phone
+1 >> their line >> product
+1 >> line through >> product
+1 >> line ranging >> product
+1 >> line through Dec. >> product
+1 >> clogged telephone line >> phone
+1 >> car line and >> product
+1 >> and line adapters >> phone
+1 >> dropping the line >> product
+1 >> Macintosh line >> product
+1 >> line -- its >> phone
+1 >> Lexus line in >> product
+1 >> shoe line to >> product
+1 >> VAX line Crays >> product
+1 >> torpedo line . >> product
+1 >> complaint line >> phone
+1 >> including telephone line >> phone
+1 >> line of womens >> product
+1 >> establish the line >> product
+1 >> line while Mr. >> phone
+1 >> Inc.s Ziari line >> product
+1 >> line called Soap >> phone
+1 >> the Jeep line >> product
+1 >> that line if >> phone
+1 >> exclusive line >> product
+1 >> a specialized line >> product
+1 >> telephone line is >> phone
+1 >> its full line >> product
+1 >> credit line >> product
+1 >> main computer line >> product
+1 >> one-on-one line >> phone
+1 >> truck line >> product
+1 >> party line . >> phone
+1 >> car line by >> product
+1 >> produce a line >> product
+1 >> toll-call party line >> phone
+1 >> line last April >> product
+1 >> line so I >> phone
+1 >> Smith line >> product
+1 >> 15700 access line >> phone
+1 >> line planned >> product
+1 >> no line noise >> phone
+1 >> line for three >> product
+1 >> line have a >> product
+1 >> on the line >> phone
+1 >> line . <p> >> phone
+1 >> Patch Kids line >> product
+1 >> access line >> phone
+1 >> line made by >> product
+1 >> telephone line growth >> phone
+1 >> line but no >> phone
+1 >> line according to >> phone
+1 >> line charges >> phone
+1 >> building-materials line the >> product
+1 >> apparel companys line >> product
+1 >> acquired line >> product
+1 >> popular line of >> product
+1 >> product line included >> product
+1 >> companys line of >> product
+1 >> by George line >> product
+1 >> line says >> phone
+1 >> clogged line >> phone
+1 >> line that link >> phone
+1 >> line is a >> product
+1 >> Mirage car line >> product
+1 >> IBMs PS/2 line >> product
+1 >> line of shoes >> product
+1 >> for using line >> phone
+1 >> line by 2.5% >> product
+1 >> a car line >> product
+1 >> installed trading line >> phone
+0 >> line because >> product
+1 >> with a line >> product
+1 >> jewelry line >> product
+1 >> dedicated line . >> phone
+1 >> about 3600 line >> phone
+1 >> line products sold >> product
+1 >> menswear line >> product
+1 >> nail-polish line . >> product
+1 >> line -- checking >> phone
+1 >> line of computer >> product
+1 >> GMs line >> product
+1 >> line of Millionaires >> phone
+0 >> other line >> phone
+1 >> line fell >> product
+1 >> tip line >> phone
+1 >> poorest telephone- line >> phone
+1 >> Hollywoods dreamboat line >> product
+1 >> line growth by >> phone
+1 >> line increased 2.4% >> phone
+1 >> out a line >> product
+1 >> upscale car line >> product
+1 >> line between >> phone
+1 >> Chevrolet Corsica line >> product
+1 >> line built >> product
+1 >> of access line >> phone
+1 >> telephone line called >> phone
+1 >> your line >> phone
+1 >> line Hormel >> product
+1 >> new X-rated line >> phone
+1 >> line and the >> product
+1 >> telephone- line growth >> phone
+1 >> 3600 line at >> phone
+1 >> GM-10 line >> product
+1 >> telephone line used >> phone
+1 >> Brands other line >> product
+1 >> dedicated line >> phone
+1 >> have a line >> product
+1 >> <s> Business line >> phone
+1 >> line as >> product
+1 >> car line through >> product
+1 >> line was secure >> phone
+1 >> Spectrum line has >> product
+1 >> line could draw >> product
+1 >> York telephone line >> phone
+1 >> The information line >> phone
+1 >> PS/2 line that >> product
+1 >> line anymore laments >> product
+1 >> line if he >> phone
+1 >> gab line >> phone
+1 >> line and spread >> phone
+1 >> PS/2 line >> product
+1 >> line in central >> phone
+1 >> and marketing line >> product
+1 >> a line open >> phone
+1 >> access line while >> phone
+1 >> line were expected >> product
+1 >> computer line built >> product
+1 >> Kids line could >> product
+1 >> telephone- line >> phone
+1 >> line Mr. Hoglund >> product
+1 >> Kids line >> product
+1 >> 1988-model line >> product
+1 >> the gab line >> phone
+1 >> line to 15. >> product
+1 >> the line from >> phone
+1 >> line lets >> phone
+1.09861228866811 >> line is >> product
+1 >> line and public >> phone
+1 >> camera line >> product
+1 >> line may >> product
+1 >> testing a line >> product
+1 >> chat line . >> phone
+1 >> asynchronous line >> phone
+1 >> line wouldnt >> product
+1 >> for the line >> product
+1 >> line or >> phone
+1 >> line as a >> product
+1 >> the Hospital line >> phone
+1 >> your line and >> phone
+1 >> the line Ive >> phone
+1 >> line which includes >> phone
+1 >> party line >> phone
+1 >> new access line >> phone
+1 >> popular line >> product
+1 >> line will be >> phone
+1 >> huge line of >> product
+1 >> apparel line >> product
+1 >> These line and >> product
+1 >> lastest line >> product
+1 >> equipment line are >> product
+1 >> line ? he >> phone
+1 >> line of sweaters >> product
+1 >> communications line >> phone
+1 >> its 1988-model line >> product
+1 >> its Amiga line >> product
+1.94591014905531 >> The line >> phone
+0 >> line for >> product
+1 >> the womens line >> product
+1 >> secure telephone line >> phone
+0.693147180559945 >> line in the >> product
+1 >> at line >> product
+1 >> X-rated line . >> phone
+1 >> line of jeans >> product
+1 >> The optometric line >> product
+1 >> the line were >> phone
+1 >> line but declined >> product
+1 >> bit line is >> product
+1 >> struggling line was >> product
+1 >> line dialed Homicide >> phone
+1 >> line pacing >> product
+1 >> line -- that >> product
+1 >> building-materials line >> product
+1 >> lastest line of >> product
+1 >> line particularly in >> product
+1 >> in subscriber line >> phone
+1 >> line is aimed >> product
+1 >> 500000 access line >> phone
+1 >> telephone line >> phone
+1 >> ordinary line >> phone
+1 >> line Bally >> product
+1 >> line last year >> phone
+1 >> toll-free line >> phone
+1 >> line grew 3.5% >> phone
+1 >> line are expected >> product
+1 >> a toll-free line >> phone
+1 >> Carleton line >> product
+1 >> line of sunglasses. >> product
+1 >> most product line >> product
+1 >> Megaquests bisexual line >> phone
+1 >> line ; Tonka >> product
+1 >> line recently caused >> phone
+1 >> George line is >> product
+1 >> line charges and >> phone
+1 >> line is in >> phone
+1 >> of his line >> product
+1 >> dreamboat line . >> product
+1 >> on your line >> phone
