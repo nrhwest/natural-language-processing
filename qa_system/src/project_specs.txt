@@ -1,0 +1,95 @@
+Programming Assignment # 5 due Monday 16 April 2018.
+
+Implement a Question Answering (QA) system in Perl called qa-system.pl.
+Your system should be able to answer Who, What, When and Where questions (but not Why or How questions).
+Your system should handle questions from any domain, and should provide answers in complete
+sentences that are specific to the question asked. Please do not provide any information
+beyond what is asked for by the question.
+
+Your system should take an approach similar to that of the AskMSR system, and simply reformulate the question
+as a series of "answer patterns" that you then search for in Wikipedia, where you are hoping to find an
+exact match to one of your patterns. For example, suppose the question was "Where is Malosky Stadium?".
+You could reformulate that question using the answer patterns "Malosky Stadium is located in",
+"Malosky Stadium is found in" or even "The address of Malosky Stadium is". You should have multiple
+patterns associated with each possible type of question (Who, What, When, and Where).
+
+Your system only needs to answer questions for which it can find an exact match to at least one
+of your answer patterns. You do not need to attempt to construct answers from partial
+information (that will come in PA6!) Your program should be able to recognize questions
+it can't answer and respond appropriately.
+
+You should use a Perl module from http://search.cpan.org to interact with Wikipedia.
+One possibility is WWW::Wikipedia. If a module you would like to use another module,
+please let me know but all modules that you use must be available from CPAN.
+
+Your program should run interactively, and prompt the user for questions until
+the user says "exit". When your program starts it should output a message with
+your name and a short description of what the system does (see below).
+Then, a user should enter their question and the system should respond with an answer
+that is a complete sentence, and should not contain any information beyond that which is
+asked by the question. Note that this is not a conversational agent, so your system
+does not need to remember previous questions or answers, nor does it need to engage in
+"small talk". You may assume that your user will cooperate and only ask well formed questions.
+
+You should also keep a log file that records the users question, the searches you actually
+execute, the raw results you obtain from Wikipedia, and finally the answer you generate.
+You may also include any additional information in your log file that you might think would
+be helpful in debugging your program. The name of this log file should be given on the command line.
+
+perl qa-system.pl mylogfile.txt
+
+*** This is a QA system by Bridget McInnes. It will try to answer questions that start
+with Who, What, When or Where. Enter "exit" to leave the program.
+
+=?> When was George Washington born? (user)
+
+=> George Washington was born on February 22, 1732. (system)
+
+=?> What is a bicycle?
+
+=> A bicycle has two wheels and is used for transportation.
+
+=?> Where is Duluth, Minnesota?
+
+=>I am sorry, I don't know the answer.
+
+=?> exit
+
+Thank you! Goodbye.
+
+You may assume that the questions are well formed and grammatical, and that they are in
+fact questions. You may assume that all questions start with either Who, What, When or Where.
+Your system should recognize when it can't answer a question, and say something like
+"I am sorry I don't know the answer."  This is preferable to giving no answer or providing gibberish.
+
+Your answers must be complete sentences. "George Washington was born on February 22, 1732" is an
+example of an acceptable response. "February 22, 1732" or "Your answer is February 22, 1732" would not
+be acceptable. Your answer must not contain any information beyond that which is asked for in the
+question, so "George Washington, the First President of the United States, was born on February 22, 1732"
+ would not be acceptable (since we only asked for his birthday, not his most notable achievement or position).
+ Each question should be assumed to be independent and separate from any other question asked
+ (thus, your system will not be expected to make use of previous questions or answers when processing a question).
+
+In addition to your program, please submit a plain text file called qa-samples.txt which includes
+20 factual questions - five each of the Who, What, When, and Where type.
+You must also include answers that you have verified are correct, and the answers as
+given by your system. Include 10 examples where the system answer is correct, and
+10 where the system answer is incorrect. The format you should use is as follows:=
+
+Question : When was George Washington born?
+
+Correct Answer : George Washington was born on February 22, 1732.
+
+My System Answer : George Washington was born to a poor family. (incorrect)
+
+Note that I will use these examples to formulate my own questions to evaluate your systems.
+So if one of your examples that your system answers correctly is "Who was George Washington?"
+I will likely ask a related question like "Who was Thomas Jefferson" since the questions and answers
+are fairly similar (and it seems fair to expect your system to get a similar question with similar
+answer correct.) If your system can answer other types of questions, please show those too.
+
+You may use code as found in perldoc, Learning Perl, or Programming Perl as a part of your assignments,
+ however, this must be documented in your source code. Using code from any other source is not permitted,
+ except for CPAN modules to access Wikipedia and carry out general (non-NLP) functionality.
+
+Please upload your submission to blackboard.

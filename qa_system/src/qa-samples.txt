@@ -1,0 +1,87 @@
+Who questions
+
+Q1 : Who is George Washington?
+Correct Answer : George Washington was the first President of the United States
+My System Answer : George Washington was an American statesman and soldier who served as the first President of the United States from 1789 to 1797 and was one of the Founding Fathers of the United States (Correct)
+
+Q2 : Who is Thomas Jefferson?
+Correct Answer : Thomas Jefferson was the third President of the United States
+My System Answer : Thomas Jefferson  was an American Founding Father who was the principal author of the Declaration of Independence and later served as the third President of the United States from 1801 to 1809 (Correct)
+
+Q3 : Who is Melania Trump?
+Correct Answer : Melania Trump is the current First Lady of the United States
+My System Answer : Melania Trump  is the current First Lady of the United States and wife of the 45th U (Correct-ish)
+
+Q4 : Who is Angelina Jolie?
+Correct Answer : Angelina Jolie is an American actress, filmmaker, and humanitarian
+My System Answer : Angelina Jolie is an American actress, filmmaker, and humanitarian (Correct)
+
+Q5 : Who is Donald Glover?
+Correct Answer : Donald Glover is an American actor, comedian, writer, director, producer, singer, songwriter, rapper, and DJ.
+My System Answer : Hm.. I'm not sure about that (Incorrect)
+
+What questions
+
+Q1 : What is apple?
+Correct Answer : An apple is a sweet, edible fruit produced by an apple tree.
+My System Answer : An apple is a sweet, edible fruit produced by an apple tree. (Correct)
+
+Q2 : What is The Office?
+Correct Answer : The Office is a popular mockumentary sitcom that was first made in the United Kingdom and has now been remade in many other countries.
+My System Answer : The Office is a popular mockumentary sitcom that was first made in the United Kingdom and has now been remade in many other countries (Correct)
+
+Q3 : What is Big Ben?
+Correct Answer : Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.
+My System Answer : Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower (Correct)
+
+Q4 : What is toy?
+Correct Answer : A toy is an item that is used in play, especially one designed for such use
+My System Answer : from India]] A toy is an item that is used in play, especially one designed  for such use (Correct-ish?)
+
+Q5 : What is calculator?
+Correct Answer : An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
+My System Answer : seven-segment display, that can perform arithmetic operations]] LCD]] An  electronic calculator is typically a portable electronic device used to  perform calculations, ranging from basic arithmetic to complex mathematics. (Correct-ish?)
+
+Where questions
+
+Q1 : Where is White House?
+Correct Answer : The White House is located in Washington, D.C.
+My System Answer : The White House is location in Washington, D.C.
+
+Q2 : Where was Barack Obama born?
+Correct Answer : Barack Obama was born in Honolulu, Hawaii.
+My System Answer : Barack Obama was born in Honolulu, Hawaii, U.S.
+
+Q3 : Where is Dodger Stadium?
+Correct Answer : Dodger Stadium is located in Los Angeles, California
+My System Answer : The Dodger Stadium is located Los Angeles, California (Correct-ish)
+
+Q4 : Where was Steve Jobs born?
+Correct Answer : Steve Jobs was born in San Francisco, California
+My System Answer : Steve Jobs was born in San Francisco, California, US (Correct)
+
+Q5 : Where is Lincoln Memorial?
+Correct Answer : The Lincoln Memorial is located at the West End of National Mall, Washington, D.C.
+My System Answer : The Lincoln Memorial is located  West End of National Mall, Washington, D.C. (Correct)
+
+When questions
+
+Q1 : When was World War II?
+Correct Answer : World War II lasted from 1939 to 1945
+My System Answer : World War II , also known as the Second World War, was a global war that lasted from 1939 to 1945, although related conflicts began earlier (Correct-ish)
+
+Q2 : When was George Washington born?
+Correct Answer : George Washington was born on February 22, 1732 (Correct)
+My System Answer : George Washington was born on February 22, 1732 (Correct)
+
+Q3 : When was French Revolution?
+Correct Answer : The French Revolution lasted from 1789 until 1799
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
+
+Q4 : When was Donald Trump born?
+Correct Answer : Donald Trump was born on June 14, 1946
+My System Answer : Donald Trump was born on June 14, 1946 (Correct)
+
+Q5 : When was Donald Glover born?
+Correct Answer : Donald Glover was born on September 25, 1983
+My System Answer : Donald Glover was born on September 25, 1983 (Correct)

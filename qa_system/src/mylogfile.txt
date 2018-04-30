@@ -1,0 +1,52 @@
+Q1 : who is george washington?
+Infobox officeholder
+| name = George Washington office = President of the United States order = 1st
+| image = Gilbert Stuart Williamstown Portrait of George Washington.jpgborder
+| caption = George Washington by Gilbert Stuart, 1797 predecessor = position
+| established successor = John Adams vicepresident = John Adams footnotes =
+{{collapsible list
+| titlestyle = background; title = Other offices held bullets = on Member of the
+| Virginia House of Burgesses  }} signature = George Washington
+| signature.svg signature_alt = Cursive signature in ink appointer2 =
+| Continental Congress office2 = Commander-in-Chief of theContinental Army
+| predecessor2 = position established party = None appointer1 = John Adams
+| office1 = Senior Officer of the U.S. Army predecessor1 = James Wilkinson
+| successor1 = Alexander Hamilton successor2 = Henry Knox birth_date =
+| birth_place = Popes Creek, Colony of Virginia, British America death_date =
+| death_place = Mount Vernon, Virginia, U.S. parents = Augustine Washington Mary
+| Ball spouse = allegiance = Kingdom of Great BritainUnited States of America
+| branch =Colonial MilitiaContinental ArmyUnited States Army serviceyears =
+| 1752–58 1775–83 1798–99  rank
+| =Colonel General and Commander-in-Chief (Continental
+| Army)Lieutenant General General of the Armies (promoted
+| posthumously: 1976, by an Act of Congress) commands = Virginia Colonys
+| regimentContinental ArmyUnited States Army battles = {{hidden
+|See battles
+|
+* French and Indian War
+* Battle of Jumonville Glen
+* Battle of Fort Necessity
+* Braddock Expedition
+* Battle of the Monongahela
+* Forbes Expedition
+* American Revolutionary War
+* Boston campaign
+* New York and New Jersey campaign
+* Philadelphia campaign
+* Yorktown campaign
+* Northwest Indian War
+|-
+|headerstyle=background:#dbdbdb |style=text-align:center; }}
+| awards = Congressional Gold MedalThanks of Congress term_start = April 30,
+| 1789 term_end = March 4, 1797 term_start1 = July 13, 1798 term_end1 = December
+| 14, 1799 term_start2 = June 15, 1775 term_end2 = December 23, 1783 office3 =
+| Delegate to the Second Continental Congress from Virginia term_start3 = May
+| 10, 1775 term_end3 = June 15, 1775 predecessor3 = Position established
+| successor3 = Thomas Jefferson office4 = Delegate to the First Continental
+| Congressfrom Virginia term_start4 = September 5, 1774 term_end4 = October 26,
+| 1774 predecessor4 = Position established successor4 = Position abolished
+| death_cause = Epiglottitis and hypovolemic shock restingplace = Washington
+| Family Tomb, Mount Vernon, Virginia, U.S.
+
+ANSWER : Could not be produced.
+
