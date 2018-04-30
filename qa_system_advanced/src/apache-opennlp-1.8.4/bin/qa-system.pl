@@ -21,11 +21,11 @@ Example : Via the command-line, the user runs the program and the system a
           OpenNLP Tokenizer
           OpenNLP Sentence Detector
 
-
-Algorithm : The algorithm reads in a question, then rewrites the question in a variety
-            of different ways to answer the question. A search with the Wikipedia module
-            locates the term and it's webpage, then cycles through the array of rewrites to
-            find if a rewrite is found on the page. I could only got this feature to work for
+Algorithm : The algorithm reads in a question, then Tokenizes the term using the opennlp
+            Tokenizer. A search with the Wikipedia module
+            locates the term and it's webpage, then the OpenNLP Sentence Detector module
+            breaks up all the sentences and the Tokenized term is search
+            . I could only got this feature to work for
             who and what questions, but for where and when questions, it finds the answers in
             the Infobox of the Wikipedia page. The question, raw information, and answer are
             print to the mylogfile.txt.
@@ -52,6 +52,7 @@ my $input = "", $info, $fullinfo ,$answer;
 my $q_reference, $verb, $term, $stuff;
 my @term_tokens;
 my $count = 0;
+my $confidence_score;
 
 while ( 1 ) {
 
@@ -126,11 +127,8 @@ while ( 1 ) {
 
     $fullinfo = $result->fulltext();
     $fullinfo =~ s/\n/ /g;
-    $fullinfo =~ s/['=;\|]//g;
     $fullinfo =~ s/\<.*?\>//g;
-    $fullinfo =~ s/{{(.*)}}//g;
-    $fullinfo =~ s/\((.*?)\)//g;
-    print "$fullinfo\n";
+    #print "$fullinfo\n";
 
 
     open my $scan, '>', $testfile or die "Could not open file.\n";
@@ -160,9 +158,9 @@ while ( 1 ) {
         $answer =~ s/\s\s+/ /g;
         $answer =~ s/[<=>?'"–!]//g;
         print "=> $answer";
-        print $logfile "ANSWER : $answer\n\n";
+        print $logfile "ANSWER : $answer\n";
 
-        ## confidence score
+        $confidence_score = 1 - (($i + 1)/($#sentences + 1));
 
         last;
       }
@@ -178,10 +176,9 @@ while ( 1 ) {
         $answer =~ s/\s\s+/ /g;
         $answer =~ s/[<=>?'"–!]//g;
         print "=> $answer";
-        print $logfile "ANSWER : $answer\n\n";
+        print $logfile "ANSWER : $answer\n";
 
-        ## confidence score
-
+        $confidence_score = 1 - (($i + 1)/($#sentences + 1));
         last;
       }
     }
@@ -195,7 +192,9 @@ while ( 1 ) {
         $answer =~ s/\s\s+/ /g;
         $answer =~ s/[<=>?'"–!]//g;
         print "=> $answer";
-        print $logfile "ANSWER : $answer\n\n";
+        print $logfile "ANSWER : $answer\n";
+
+        $confidence_score = 1 - (($i + 1)/($#sentences + 1));
         next;
       }
     }
@@ -206,7 +205,9 @@ while ( 1 ) {
       $answer =~ s/[<=>?'"–!]//g;
       $answer =~ s/&nbsp/ /g;
       print "=> $answer\n";
-      print $logfile "ANSWER : $answer\n\n";
+      print $logfile "ANSWER : $answer\n";
+
+      $confidence_score = 1 - (($i + 1)/($#sentences + 1));
       next;
     }
   }
@@ -225,24 +226,21 @@ while ( 1 ) {
           $answer = "$term was born on $birth";
           $answer =~ s/\s\s+/ /g;
           print "=> $answer\n";
-          print $logfile "ANSWER : $answer\n\n";
+          print $logfile "ANSWER : $answer\n";
 
+          $confidence_score = 1 - (($i + 1)/($#sentences + 1));
           next;
         }
       }
     }
   }
+  
+  $confidence_score = $confidence_score * $termextrascore;
+  print $logfile "Confidence Score = $confidence_score\n\n";
 
   ## if the search is conducted, but no answer is found, search through the fulltext
   if ($found == 0) {
-    if ($extra == NULL) {
-      if ($q_reference eq "who" or $q_reference eq "what") {
-
-      }
-
-    } else {
-      print "=> Hmm.. I'm not sure about that.\n";
-      print $logfile "ANSWER : Could not be produced.\n\n";
-    }
+    print "=> Hmm.. I'm not sure about that.\n";
+    print $logfile "ANSWER : Could not be produced.\n\n";
   }
 }

@@ -1,4 +1,487 @@
-Q1 : who is george washington?
+Q1 : What is the answer to life the universe and everything?
+Multiple issues|
+
+
+
+ANSWER : Could not be produced.
+
+Q2 : What is answer to life the universe and everything?
+Multiple issues|
+
+
+
+ANSWER : Could not be produced.
+
+Q3 : What is hockey?
+
+ANSWER : Could not be produced.
+
+Q4 : Goodbye, thank you!
+
+ANSWER : Could not be produced.
+
+Q5 : What is Talking Dead?
+Infobox television
+| show_name = Talking Dead image = Talking Dead logo.jpeg genre = Aftershow
+| presenter = Chris Hardwick director = composer = executive_producer = producer
+| = editor = location = }} country = United States language = English network =
+| AMC company = num_seasons = 7 num_episodes = 136 
+| list_episodes = #Episodes first_aired = last_aired = present related = website
+| = http://www.amc.com/shows/talking-dead
+
+ANSWER : Talking Dead is a live television aftershow in which host Chris Hardwick discusses episodes of the AMC television series [[The Walking Dead The Walking Dead]] and [[Fear the Walking Dead]] with guests, including celebrity fans, cast members, and crew from the series
+
+Q6 : What is Smithsonian?
+Infobox Museum |name = Smithsonian Institution |logo = |logo_caption= Logo
+|image = Flag of the Smithsonian Institution.svg |caption = Flag of the
+Smithsonian Institution |map_type = United States Washington, D.C. central#USA
+|map_relief = 1 |coordinates = |established = August 10, 1846 |location =
+Washington, D.C.; Chantilly, Virginia; New York City |type = |visitors =
+|director = David J. Skorton, Secretary of the Smithsonian |curator = |website =
+
+ANSWER : Could not be produced.
+
+Q7 : What is car?
+Infobox machine
+| name = Car image = caption = Modern cars and trucks driving on an expressway
+| in Ontario, Canada. classification = Vehicle industry = Various application =
+| dimensions = weight = fuel_source = Gasoline, diesel, natural gas, electric,
+| hydrogen, solar, vegetable oil powered = Yes self-propelled = Yes wheels = 3–4
+| tracks = legs = aerofoils = axles = 2 components = invented = inventor = Karl
+| Benz examples =
+
+ANSWER : Could not be produced.
+
+Q8 : When was Justin Bieber born?
+Infobox person
+| name = Justin Bieber image = Justin_Bieber_in_2015.jpg caption = Bieber in
+| 2015 birth_name = Justin Drew Bieber birth_date = birth_place = London,
+| Ontario, Canada occupation = {{flatlist|
+* Singer
+* songwriter
+* actor }}
+| years_active = 2007–present home_town = Stratford, Ontario, Canada module =
+| {{Infobox musical artist|embed=yes background = solo_singer instrument =
+| {{flatlist|
+* Vocals
+* drums
+* guitar }}
+| genre = {{flatlist|
+* Pop
+* R&B }}
+| label = {{flatlist|
+* Island
+* Teen Island
+* RBMG
+* School Boy
+* Def Jam }}
+| associated_acts = {{flatlist|
+* Carly Rae Jepsen
+* Diplo
+* Lil Twist
+* Skrillex
+* Usher }}
+| website =
+}}
+| signature = File:Signature Justin Bieber.svg
+
+ANSWER : Justin Bieber was born on March 1, 1994
+
+Q9 : When was World War I?
+Infobox military conflict
+| conflict = World War I image = WWImontage.jpg image_size = 300px caption =
+| Clockwise from the top: The aftermath of shelling during the Battle of the
+| Somme, Mark V tanks cross the Hindenburg Line, sinks after hitting a mine in
+| the Dardanelles, a British Vickers machine gun crew wears gas masks during the
+| Battle of the Somme, Albatros D.III fighters of Jagdstaffel 11 date = 
+{{Collapsible list
+| bullets = yes title = Peace treaties
+|Treaty of VersaillesSigned 28 June 1919 |Treaty of Saint-Germain-en-
+LayeSigned 10 September 1919 |Treaty of Neuilly-sur-SeineSigned 27 November
+1919 |Treaty of TrianonSigned 4 June 1920 |Treaty of SèvresSigned 10 August
+1920 |United States–Austria Peace TreatySigned 24 August 1921 |United
+States–Germany Peace TreatySigned 25 August 1921 |United States–Hungary Peace
+TreatySigned 29 August 1921 |Treaty of LausanneSigned 24 July 1923 }}
+| place = Europe, Africa, the Middle East, the Pacific Islands, China, Indian
+| Ocean, and off the coast of South and North America casus = Assassination of
+| Archduke Franz Ferdinand  followed by Austro-Hungarian declaration of
+| war on Kingdom of Serbia  and Russian mobilisation against Austria-
+| Hungary . result = Allied victory
+* Central Powers victory on the Eastern Front nullified by defeat on the
+  Western Front
+* Fall of the German, Russian, Ottoman, and Austro-Hungarian empires
+* Russian Civil War and foundation of the Soviet Union
+* Formation of new countries in Europe and the Middle East
+* Transfer of German colonies and regions of the former Ottoman Empire to
+  other powers
+* Establishment of the League of Nations. 
+| combatant1 = [[Allies of World War I|Allied Powers]]{{plainlist|
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*  Hejaz
+*
+*  Siam
+* }}
+| combatant2 = [[Central Powers]]{{plainlist|
+*
+*
+*
+*
+* }}
+| commander1 = [[Allies of World War I#Leaders|Allied leaders]]{{plainlist|
+*  Raymond Poincaré
+*  Georges Clemenceau
+*  H. H. Asquith
+*  David Lloyd George
+*  Nicholas II
+*  Victor Emmanuel III
+*  Vittorio Orlando
+*  Woodrow Wilson
+*  Yoshihito
+*  Peter I
+*  Ferdinand I
+*  Eleftherios Venizelos
+* }}
+| commander2 = [[Central Powers#Leaders|Central Powers leaders]]{{plainlist|
+*  Wilhelm II
+*  Franz Joseph I †
+*  Karl I
+*  Mehmed V †
+*  Mehmed VI
+*  Three Pashas
+*  Ferdinand I
+* }}
+| strength1 = {{plainlist|
+*  12,000,000
+*  8,841,541Figures are for the British Empire
+*  8,660,000Figures are for Metropolitan France and its colonies
+*  5,615,140
+*  4,743,826
+*  1,234,000
+*  800,000
+*  707,343
+*  380,000
+*  250,000
+*  50,000}} Total: 42,959,850
+| strength2 = {{plainlist|
+*  13,250,000
+*  7,800,000
+*  2,998,321
+*  1,200,000}} Total: 25,248,321
+| casualties1 = {{plainlist|
+* Military dead: 5,525,000
+* Military wounded: 12,831,500
+* Total: 18,356,500&nbsp;KIA, WIA and MIA
+* Civilian dead: 4,000,000}}
+
+| casualties2 = {{plainlist|
+* Military dead: 4,386,000
+* Military wounded: 8,388,000
+* Total: 12,774,000&nbsp;KIA, WIA and MIA
+* Civilian dead: 3,700,000}}
+
+| campaignbox =
+
+ANSWER : Could not be produced.
+
+Q10 : When was World War II?
+Infobox military conflict |conflict = World War&nbsp;II |partof = |image =
+Infobox collage for WWII.PNG |image_size = 300px |caption = (clockwise from top
+left) {{flatlist|
+* Chinese forces in the Battle of Wanjialing
+* Australian 25-pounder guns during the First Battle of El Alamein
+* German Stuka dive bombers on the Eastern Front in December 1943
+* American naval force in the Lingayen Gulf
+* Wilhelm Keitel signing the German Instrument of Surrender
+* Soviet troops in the Battle of Stalingrad }} |date = )}} |place = Europe,
+  Pacific, Atlantic, South-East Asia, China, Middle East, Mediterranean, North
+  Africa and Horn of Africa, briefly North and South America |territory =
+  |result = Allied victory
+* Collapse of Nazi Germany
+* Fall of Japanese and Italian Empires
+* Dissolution of the League of Nations
+* Creation of the United Nations
+* Emergence of the United States and the Soviet Union as superpowers
+* Beginning of the Cold War 
+
+
+
+| combatants_header = Participants
+|combatant1 =Allied Powers |combatant2 =Axis Powers
+
+|commander1 = [[Allied leaders of World War II|Main Allied
+leaders]]{{plainlist|
+*  Franklin D. Roosevelt
+*  Joseph Stalin
+*  Winston Churchill
+*  Chiang Kai-shek}} |commander2 = [[Axis leaders of World War II|Main Axis
+   leaders]]{{plainlist|
+*  Adolf Hitler
+*  Hirohito
+*  Benito Mussolini}} |casualties1 = {{plainlist|
+* Military dead:Over 16,000,000
+* Civilian dead:Over 45,000,000
+* Total dead:Over 61,000,000 }} ...further details |casualties2 =
+  {{plainlist|
+* Military dead:Over 8,000,000
+* Civilian dead:Over 4,000,000
+* Total dead:Over 12,000,000 }} ...further details
+  |campaignbox= 
+ANSWER : World War II , also known as the Second World War, was a global war that lasted from 1939 to 1945, although related conflicts began earlier
+
+Q11 : When was Jesus born?
+Infobox person
+
+| name = Jesus image = Cefal� Pantocrator retouched.jpg caption = 1130}}
+| birth_date = Rahner states that the consensus among scholars is . Sanders also
+| favors and refers to the general consensus. Finegan uses the study of early
+| Christian traditions to support c.&nbsp;3 or 2&nbsp;BC. }} birth_place =
+| Judea, Roman Empire
+|family = James, Joseph , Judas , and Simon and unnamed sisters
+| death_date = }}  death_place = Jerusalem, Judea, Roman Empire
+| death_cause = Crucifixion Bart Ehrman states that the crucifixion of Jesus on
+| the orders of Pontius Pilate is the most certain element about him. John
+| Dominic Crossan and Richard G. Watts state that the crucifixion of Jesus is as
+| certain as any historical fact can be. Paul R. Eddy and Gregory A. Boyd say
+| that non-Christian confirmation of the crucifixion of Jesus is now "firmly
+| established". }} home_town = Nazareth, Galilee
+
+| parents = }}
+}}
+
+
+Jesus; }} , also referred to as Jesus of Nazareth and Jesus Christ, was
+a first-century Jewish preacher and religious leader. He is the central figure
+of Christianity. Most Christians believe him to be the incarnation of God the
+Son and the awaited Messiah  prophesied in the Old Testament.
+
+
+Virtually all modern scholars of antiquity agree that Jesus existed
+historically, Richard A. Burridge states: "There are those who argue that Jesus
+is a figment of the Churchs imagination, that there never was a Jesus at all. I
+have to say that I do not know any respectable critical scholar who says that
+any more". Robert M. Price does not believe that Jesus existed, but agrees that
+this perspective runs against the views of the majority of scholars. James D. G.
+Dunn calls the theories of Jesus non-existence "a thoroughly dead thesis".
+Michael Grant  wrote in 1977, "In recent years, no serious
+scholar has ventured to postulate the non historicity of Jesus or at any rate
+very few, and they have not succeeded in disposing of the much stronger, indeed
+very abundant, evidence to the contrary". Robert E. Van Voorst states that
+biblical scholars and classical historians regard theories of non-existence of
+Jesus as effectively refuted.}} although the quest for the historical Jesus has
+produced little agreement on the historical reliability of the Gospels and on
+how closely the Jesus portrayed in the Bible reflects the historical Jesus.}}
+Jesus was a Galilean Jew who was baptized by John the Baptist and subsequently
+began his own ministry, preaching his message orally and often being referred to
+as "rabbi". Jesus debated with fellow Jews on how to best follow God, engaged in
+healings, taught in parables and gathered followers. He was arrested and tried
+by the Jewish authorities, and turned over to the Roman government, and was
+subsequently crucified on the order of Pontius Pilate, the Roman prefect. After
+his death, his followers believed he rose from the dead, and the community they
+formed eventually became the early Church.
+
+The birth of Jesus is celebrated annually on December 25 (or various dates in
+January by some eastern churches) as a holiday known as Christmas. His
+crucifixion is honored on Good Friday, and his resurrection is celebrated on
+Easter. The widely used calendar era "AD", from the Latin anno Domini ("in the
+year of the Lord"), and the alternative "CE", are based on the approximate birth
+date of Jesus.
+ANSWER : Could not be produced.
+
+Q12 : When is Martin Luther King Day?
+Infobox holiday |holiday_name = Martin Luther King Jr. Day |type = National
+|image = Martin Luther King press conference 01269u edit.jpg |image_size = 200px
+|caption = King in 1964 |official_name = Birthday of Martin Luther King Jr.
+|nickname = MLK Day, King Day, Reverend Dr. Martin Luther King Jr. Day
+|observedby = United States |scheduling = nth weekday of the month |duration = 1
+day |frequency = Yearly |week_ordinal = third |weekday = Monday |month = January
+
+ANSWER : Could not be produced.
+
+Q13 : When was Bill Gates born?
+Infobox person
+| name = Bill Gates image = Bill Gates June 2015.jpg alt = Head and shoulders
+| photo of Bill Gates caption = Gates in 2015 birth_name = William Henry Gates
+| III birth_date = birth_place = Seattle, Washington, U.S. residence = Medina,
+| Washington, U.S. education = alma_mater = years_active = 1968–present
+| net_worth = }}  title = boards = spouse = children = 3 parents = website
+| = signature = BillGates Signature.svg signature_alt = William H. Gates III
+}}
+
+William Henry Gates III  is an American business
+magnate, investor, author, philanthropist, humanitarian, and principal founder
+of Microsoft Corporation. During his career at Microsoft, Gates held the
+positions of chairman, CEO and chief software architect, while also being the
+largest individual shareholder until May 2014.
+
+In 1975, Gates and Paul Allen launched Microsoft, which became the worlds
+largest PC software company.}} Gates led the company as chief executive officer
+until stepping down in January 2000, but he remained as chairman and created the
+position of chief software architect for himself. In June 2006, Gates announced
+that he would be transitioning from full-time work at Microsoft to part-time
+work and full-time work at the Bill & Melinda Gates Foundation, which was
+established in 2000. He gradually transferred his duties to Ray Ozzie and Craig
+Mundie. Development of Information and Knowledge Management|url=https://www.tlu-
+.ee/~sirvir/IKM/Development_of_IKM/bill_gates.html|website=tlu.ee|accessdate=Ja-
+nuary 21, 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160126074023-
+/http://www.tlu.ee/~sirvir/IKM/Development_of_IKM/bill_gates.html|archivedate=J-
+anuary 26, 2016|df=mdy-all
+ANSWER : Bill Gates was born on October 28, 1955
+
+Q14 : Where is Hungary?
+Infobox country
+| conventional_long_name = Hungary common_name = Hungary native_name =
+| image_flag = Flag of Hungary.svg image_coat = Coat of Arms of Hungary.svg
+| symbol_width = 50px national_motto = national_anthem = image_map = EU-
+| Hungary.svg map_caption = capital = Budapest coordinates = largest_city =
+| capital languages_type = Official language languages = Hungarian ethnic_groups
+| = {{unbulleted list
+| 80.7% Hungarians
+| 14.7% not declared
+|  3.1% Roma
+|  1.3% Germans
+ }}
+| ethnic_groups_year = 2011 religion = demonym = Hungarian government_type =
+| leader_title1 = President leader_name1 = János Áder leader_title2 = Prime
+| Minister leader_name2 = Viktor Orbán leader_title3 = Speaker of the
+| National&nbsp;Assembly leader_name3 = László Kövér legislature = [[National
+| Assembly |Országgyűlés]] sovereignty_type = Foundation
+| established_event1 = Principality of Hungary established_date1 = 895
+| established_event2 = Battle of Pressburg established_date2 = 4–6 July 907
+| established_event3 = Christian Kingdom established_date3 = 25 December
+| 1000University of British Columbia. Committee for Medieval Studies,
+| [https://books.google.com/books?id=xV7xAAAAMAAJ Studies in medieval and
+| renaissance history], Committee for Medieval Studies, University of British
+| Columbia, 1980, p. 159 established_event4 = Golden Bull of 1222
+| established_date4 = 24 April 1222 established_event5 = established_date5 = 29
+| August 1526 established_event6 = of Buda established_date6 = 2 September 1686
+| established_event7 = established_date7 = 15 March 1848 established_event8 =
+| Austro-Hungarian Empire established_date8 = 20 March 1867 established_event9 =
+| Treaty of Trianon established_date9 = 4 June 1920 established_event10 = Third
+| Republic established_date10 = 23 October 1989 established_event11 = Joined the
+| European Union established_date11 = 1 May 2004 area_km2 = 93,030 area_rank =
+| 108th area_sq_mi = 35,919 percent_water = 0.74% population_estimate =
+| 9,797,561 population_estimate_year = 2017 population_estimate_rank = 92nd
+| population_density_km2 = 105.3 population_density_sq_mi = 274.4
+| population_density_rank = 103rd GDP_PPP = $306.787 billion GDP_PPP_year = 2018
+| GDP_PPP_rank = 57th GDP_PPP_per_capita = $31,370 GDP_PPP_per_capita_rank =
+| 45th GDP_nominal = $163.541 billion GDP_nominal_year = 2018 GDP_nominal_rank =
+| 58th GDP_nominal_per_capita = $16,723 GDP_nominal_per_capita_rank = 54th Gini
+| = 27.9 Gini_year = 2014 Gini_change = decrease Gini_ref = Gini_rank = 16th HDI
+| = 0.836 HDI_year = 2015 HDI_change = increase HDI_ref = HDI_rank = 43rd
+| currency = Forint currency_code = HUF time_zone = CET utc_offset = +1
+| utc_offset_DST = +2 time_zone_DST = CEST date_format = yyyy.mm.dd. drives_on =
+| right calling_code = +36 patron_saint = Saint Stephen cctld = .hu and .eu
+| area_magnitude = 1 E10 country_code = hu
+
+ANSWER : Could not be produced.
+
+Q15 : Where is Rome?
+Infobox settlement
+
+| name = Rome official_name = Roma Capitale native_name = Roma settlement_type =
+| [[Comune]] image_skyline = Rome Montage 2017.png image_caption = Clockwise
+| from top: the Colosseum, St. Peters Basilica, Castel SantAngelo, Ponte
+| SantAngelo, Trevi Fountain and the Pantheon image_flag = image_shield =
+| nickname = The Eternal City, Capital of the World, Throne of St. Peter
+
+| image_map = Map of comune of Rome (metropolitan city of Capital Rome, region
+| Lazio, Italy).svg map_caption = The territory of the comune (Roma Capitale, in
+| red) inside the Metropolitan City of Rome (Città Metropolitana di Roma, in
+| yellow). The white area in the centre is Vatican City. pushpin_map =
+| Italy#Lazio#Europe pushpin_map_caption = Location in Italy & Europe
+|pushpin_relief = yes
+| coordinates = coor_pinpoint =
+
+
+| subdivision_type = Country subdivision_name = Excluding }} subdivision_type2 =
+| Region subdivision_name2 =
+
+| government_footnotes = government_type = Special Comune 
+| governing_body = Rome City Council leader_title = Mayor leader_name = Virginia
+| Raggi  total_type = Total unit_pref = IT
+
+| area_footnotes = area_total_sq_mi = 496.3 area_urban_sq_mi =
+
+| elevation_footnote = elevation_m = 21 elevation_ft =
+
+| population_total = population_as_of = 30 November 2017 population_footnotes =
+| population_density_km2 = 2236 population_rank = 1st, Italy 
+| population_blank1_title = Comune population_blank1 = 2,873,874
+| population_blank2_title = Metropolitan City population_blank2 = 4,357,041[htt-
+| p://demo.istat.it/pop2014/popol.php?m1=&m2=&m3=&m4=&m5=y&f1=&f2=&f3=&f4=&f5=y-
+| &daanno=0&adanno=100&lingua=eng&Rip=S3&Reg=R12&Pro=P058&Com=000&submit=Save
+| Bilancio demografico Anno 2014 . Provincia: Roma] –
+| Demo.istat.it population_demonym =
+
+| timezone1 = CET utc_offset1 = +1
+
+| postal_code_type = CAP code postal_code = 00100; 00118 to 00199 area_code =
+| 06 website = [http://www.comune.roma.it/ Comune di Roma] pushpin_label = Rome
+| un_locode =
+
+
+ANSWER : Rome is located in Italy & Europe
+
+Q16 : Where is Virginia?
+Infobox U.S. state |Fullname = Commonwealth of Virginia |Flag = Flag of
+Virginia.svg |Name = Virginia |FlagAlt = Navy blue flag with the circular Seal
+of Virginia centered on it. |Seal = Seal of Virginia.svg |SealAlt = A circular
+seal with the words "Virginia" on the top and "Sic Semper Tyrannis" on the
+bottom. In the center, a woman wearing a blue toga and Athenian helmet stands on
+the chest of dead man wearing a purple breastplate and skirt. The woman holds a
+spear and sheathed sword. The man holds a broken chain while his crown lies away
+from the figures. Orange leaves encircle the seal. |Flaglink = Flag |Seallink =
+Seal |Nickname = "Old Dominion", "Mother of Presidents and the Mother of
+Statesmen" |Motto = }} |Map = Virginia in United States.svg |MapAlt = Virginia
+is located on the Atlantic coast along the line that divides the northern and
+southern halves of the United States. It runs mostly east to west. It includes a
+small peninsula across a bay which is discontinuous with the rest of the state.
+|OfficialLang = English |Languages = English 85.87%,Spanish 6.41%Other 7.72%
+|Demonym = Virginian |LargestCity = Virginia Beach |Capital = Richmond
+|LargestMetro = Washington metropolitan area |AreaRank = 35th |TotalAreaUS =
+42,774.2 |TotalArea = 110,785.67 |WidthUS = 200 |Width = 320 |LengthUS = 430
+|Length = 690 |PCWater = 7.4 |Latitude = 36°&nbsp;32′&nbsp;N to
+39°&nbsp;28′&nbsp;N |Longitude = 75°&nbsp;15′&nbsp;W to 83°&nbsp;41′&nbsp;W
+|PopRank = 12th
+|2010Pop = 8,411,808 
+|MedianHouseholdIncome = $61,486
+|2000DensityUS = 206.7 2000Density = 79.8
+|DensityRank = 14th |IncomeRank = 14th |HighestPoint = Mount RogersElevation
+adjusted to North American Vertical Datum of 1988. |HighestElevUS = 5,729
+|HighestElev = 1746 |MeanElevUS = 950 |MeanElev = 290 |LowestPoint = Atlantic
+Ocean |LowestElev = 0 |LowestElevUS = 0 |Former = Colony of Virginia
+|AdmittanceDate = June 25, 1788 |AdmittanceOrder = 10th |Governor = Ralph
+Northam  |Lieutenant Governor = Justin Fairfax  |Legislature = General
+Assembly |Upperhouse = Senate |Lowerhouse = House of Delegates |Senators = Mark
+Warner Tim Kaine  |Representative = 7 Republicans,4 Democrats |TimeZone =
+Eastern: UTC −5/−4 |ISOCode = US-VA |PostalAbbreviation = VA |TradAbbreviation =
+Va. |Website = www.virginia.gov |LargestCounty = Fairfax County |ElectoralVotes
+= 13 |SecededDate = April 17, 1861 |ReadmittanceDate = January 26, 1870 }}
+{{Infobox U.S. state symbols |Flag = Flag of Virginia.svg |Seal = Seal of
+Virginia.svg |Name = Virginia |Amphibian = |Bird = Cardinal (Cardinalis
+cardinalis) |Butterfly = Tiger Swallowtail butterfly  |Dog
+Breed = American Foxhound  |Crustacean = |Fish = Brook
+trout, striped bass |Flower = Flowering Dogwood |Grass = |Insect = Tiger
+Swallowtail butterfly  |Mammal = |Reptile = |Tree = Flowering
+Dogwood |Beverage = Milk |Colors = |Dance = Square dance |Dinosaur = |Fossil =
+Chesapecten jeffersonius |Food = |Gemstone = |Mineral = |Motto = |Musical
+Instrument = |Poem = |Rock = Nelsonite |Shell = Eastern oyster |Ships = |Slogan
+= Virginia is for lovers |Soil = |Song = "Our Great Virginia" |Sport = |Tartan =
+Virginia Quadcentennial Tartan |Toy = |Other = |Route Marker = Virginia 5.svg
+|Quarter = 2000 VA Proof.png |QuarterReleaseDate = 2000 
+ANSWER : Could not be produced.
+
+Q17 : Where was George Washington born?
 Infobox officeholder
 | name = George Washington office = President of the United States order = 1st
 | image = Gilbert Stuart Williamstown Portrait of George Washington.jpgborder
@@ -47,6 +530,34 @@ Infobox officeholder
 | 1774 predecessor4 = Position established successor4 = Position abolished
 | death_cause = Epiglottitis and hypovolemic shock restingplace = Washington
 | Family Tomb, Mount Vernon, Virginia, U.S.
+
+ANSWER : George Washington was born in  Popes Creek, Colony of Virginia, British America
+
+Q18 : Where was Wrestlemania 31?
+Infobox Wrestling event |name = WrestleMania 31 |image = WM31Poster.png
+|caption = Promotional poster featuring various WWE wrestlers |tagline = |theme
+= "Rise" by David Guetta ft. Skylar Grey"Money and the Power" by Kid Ink
+|promotion = WWE |sponsor = Mountain DewMountain Dew Kickstart |date = March 29,
+2015 |attendance = 76,976 |venue = Levis Stadium |city = Santa Clara,
+California |wwenlast = Fastlane  |wwennext = Extreme Rules  |event =
+WrestleMania |lastevent2 = WrestleMania XXX |nextevent2 = WrestleMania 32 
+ANSWER : Could not be produced.
+
+Q19 : Where is Super Bowl XLVIII?
+Infobox Super Bowl
+| type = sb name = XLVIII image = Super Bowl XLVIII Logo.png image_size = x220px
+| visitor = Seattle Seahawks home = Denver Broncos visitor_abbr = SEA home_abbr
+| = DEN visitor_conf = NFC home_conf = AFC visitor_qtr1 = 8 visitor_qtr2 = 14
+| visitor_qtr3 = 14 visitor_qtr4 = 7 home_qtr1 = 0 home_qtr2 = 0 home_qtr3 = 8
+| home_qtr4 = 0 date = February 2, 2014 kickoff time = 6:32&nbsp;p.m. EST
+| stadium = MetLife Stadium city = East Rutherford, New Jersey attendance =
+| 82,529 odds = Broncos by 2 MVP = Malcolm Smith, Linebacker anthem = Ren�e
+| Fleming coin_toss = Joe Namath, Phil Simms referee = Terry McAulay halftime =
+| Bruno Mars and Red Hot Chili Peppers network = Fox announcers = Joe Buck (play-by-
+| play) Troy Aikman  Pam Oliver and Erin Andrews 
+| rating = 46.4  56.7  50.5  51.4  US
+| viewership: 111.5&nbsp;million est. avg., 167&nbsp;million est. total share =
+| 69  commercial = $4&nbsp;million last = XLVII next = XLIX
 
 ANSWER : Could not be produced.
 

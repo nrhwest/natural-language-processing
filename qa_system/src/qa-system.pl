@@ -142,7 +142,6 @@ while ( 1 ) {
 
     $text = $result->text();
     $full_text = $result->fulltext();
-    print "$full_text\n";
     $text =~ s/\'//g;
     $text_ref = $text;
     $text =~ s/\((.*?)\)//g;
