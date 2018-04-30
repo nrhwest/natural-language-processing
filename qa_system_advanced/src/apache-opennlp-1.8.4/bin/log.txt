@@ -1,4 +1,159 @@
-Q1 : Who is the Incredible Hulk?
+Q1 : Who is George Washington?
+Infobox officeholder
+| name = George Washington office = President of the United States order = 1st
+| image = Gilbert Stuart Williamstown Portrait of George Washington.jpgborder
+| caption = George Washington by Gilbert Stuart, 1797 predecessor = position
+| established successor = John Adams vicepresident = John Adams footnotes =
+{{collapsible list
+| titlestyle = background; title = Other offices held bullets = on Member of the
+| Virginia House of Burgesses  }} signature = George Washington
+| signature.svg signature_alt = Cursive signature in ink appointer2 =
+| Continental Congress office2 = Commander-in-Chief of theContinental Army
+| predecessor2 = position established party = None appointer1 = John Adams
+| office1 = Senior Officer of the U.S. Army predecessor1 = James Wilkinson
+| successor1 = Alexander Hamilton successor2 = Henry Knox birth_date =
+| birth_place = Popes Creek, Colony of Virginia, British America death_date =
+| death_place = Mount Vernon, Virginia, U.S. parents = Augustine Washington Mary
+| Ball spouse = allegiance = Kingdom of Great BritainUnited States of America
+| branch =Colonial MilitiaContinental ArmyUnited States Army serviceyears =
+| 1752–58 1775–83 1798–99  rank
+| =Colonel General and Commander-in-Chief (Continental
+| Army)Lieutenant General General of the Armies (promoted
+| posthumously: 1976, by an Act of Congress) commands = Virginia Colonys
+| regimentContinental ArmyUnited States Army battles = {{hidden
+|See battles
+|
+* French and Indian War
+* Battle of Jumonville Glen
+* Battle of Fort Necessity
+* Braddock Expedition
+* Battle of the Monongahela
+* Forbes Expedition
+* American Revolutionary War
+* Boston campaign
+* New York and New Jersey campaign
+* Philadelphia campaign
+* Yorktown campaign
+* Northwest Indian War
+|-
+|headerstyle=background:#dbdbdb |style=text-align:center; }}
+| awards = Congressional Gold MedalThanks of Congress term_start = April 30,
+| 1789 term_end = March 4, 1797 term_start1 = July 13, 1798 term_end1 = December
+| 14, 1799 term_start2 = June 15, 1775 term_end2 = December 23, 1783 office3 =
+| Delegate to the Second Continental Congress from Virginia term_start3 = May
+| 10, 1775 term_end3 = June 15, 1775 predecessor3 = Position established
+| successor3 = Thomas Jefferson office4 = Delegate to the First Continental
+| Congressfrom Virginia term_start4 = September 5, 1774 term_end4 = October 26,
+| 1774 predecessor4 = Position established successor4 = Position abolished
+| death_cause = Epiglottitis and hypovolemic shock restingplace = Washington
+| Family Tomb, Mount Vernon, Virginia, U.S.
+
+ANSWER : George Washington was an American statesman and soldier who served as the first President of the United States from 1789 to 1797 and was one of the Founding Fathers of the United States.
+Confidence Score = 0
+
+Q2 : Who is Thomas Jefferson?
+Infobox officeholder |name = Thomas Jefferson |image = Official Presidential
+portrait of Thomas Jefferson .jpgborder |caption =
+Thomas Jefferson by Rembrandt Peale, 1800 |office = 3rd President of the United
+States |vicepresident = Aaron Burr George Clinton 
+|term_start = March 4, 1801 |term_end = March 4, 1809 |predecessor = John Adams
+|successor = James Madison |office1 = 2nd Vice President of the United States
+|president1 = John Adams |term_start1 = March 4, 1797 |term_end1 = March 4, 1801
+|predecessor1 = John Adams |successor1 = Aaron Burr |office2 = 1st United States
+Secretary of State |president2 = George Washington |term_start2 = March 22, 1790
+|term_end2 = December 31, 1793 |predecessor2 = John Jay 
+|successor2 = Edmund Randolph |office3 = United States Minister to France
+|appointer3 = Congress of the Confederation |term_start3 = May 17, 1785
+|term_end3 = September 26, 1789 |predecessor3 = Benjamin Franklin |successor3 =
+William Short |office4 = Virginia delegate to the |term_start4 = November 3,
+1783 |term_end4 = May 7, 1784 |predecessor4 = James Madison |successor4 =
+Richard H. Lee |office5 = 2nd Governor of Virginia |term_start5 = June 1, 1779
+|term_end5 = June 3, 1781 |predecessor5 = Patrick Henry |successor5 = William
+Fleming |office6 = Virginia delegate to the |term_start6 = June 20, 1775
+|term_end6 = September 26, 1776 |predecessor6 = George Washington |successor6 =
+John Harvie |birth_date = |birth_place = Shadwell, Colony of Virginia, British
+America |death_date = |death_place = Charlottesville, Virginia, U.S.
+|resting_place = Monticello, Charlottesville, Virginia |party = Democratic-
+Republican |spouse = |children = 6, including Martha and Mary |alma_mater =
+College of William and Mary |signature = Thomas Jefferson Signature.svg
+|signature_alt = Th: Jefferson 
+ANSWER : Thomas Jefferson was an American Founding Father who was the principal author of the Declaration of Independence and later served as the third President of the United States from 1801 to 1809.
+Confidence Score = 0
+
+Q3 : Who is Melania Trump?
+Infobox first lady |name = Melania Trump |image = Melania Trump Official
+Portrait.jpg |office = First Lady of the United States |president = Donald Trump
+|term_label = Assumed role |term = January 20, 2017 |term_end = |predecessor =
+Michelle Obama |successor = |alma_mater = |birth_name = Melanija Knavs
+|birth_date = |birth_place = Novo Mesto, SR Slovenia, SFR Yugoslavia(now Novo
+Mesto, Slovenia) |death_date = |death_place = |citizenship = American |party =
+Republican |spouse = |children = Barron Trump |residence = White House
+Trump Tower  
+ANSWER : Melania Trump is the current First Lady of the United States and wife of the 45th U.S. President Donald Trump.
+Confidence Score = 0
+
+Q4 : Who is Oprah
+Infobox first lady |name = Melania Trump |image = Melania Trump Official
+Portrait.jpg |office = First Lady of the United States |president = Donald Trump
+|term_label = Assumed role |term = January 20, 2017 |term_end = |predecessor =
+Michelle Obama |successor = |alma_mater = |birth_name = Melanija Knavs
+|birth_date = |birth_place = Novo Mesto, SR Slovenia, SFR Yugoslavia(now Novo
+Mesto, Slovenia) |death_date = |death_place = |citizenship = American |party =
+Republican |spouse = |children = Barron Trump |residence = White House
+Trump Tower  
+ANSWER : Melania Trump is the current First Lady of the United States and wife of the 45th U.S. President Donald Trump.
+Confidence Score = 0
+
+Q5 : Who is Oprah?
+Infobox person |name = Oprah Winfrey |image =Oprah in 2014.jpg |alt =
+|image_size = |caption = Oprah in October 2014 |birth_name = Orpah Gail
+WinfreyWinfrey has said in interviews that "my name had been chosen from the
+Bible. My Aunt Ida had chosen the name, but nobody really knew how to spell it,
+so it went down as "Orpah" on my birth certificate, but people didnt know how
+to pronounce it, so they put the "P" before the "R" in every place else other
+than the birth certificate. On the birth certificate it is Orpah, but then it
+got translated to Oprah, so here we are." |birth_date = |birth_place =
+Kosciusko, Mississippi, U.S. |death = |alma_mater = Tennessee State University
+|occupation =
+* Host of [[The Oprah Winfrey Show]] 
+* Chairwoman and CEO of Harpo Productions 
+* Chairwoman, CEO, and CCO of the Oprah Winfrey Network 
+* Actress
+* Author |net_worth = US$2.8 billion  |salary = $75 million
+   |party = Democratic |residence = Montecito, CaliforniaLavallette, New
+  JerseyTelluride, ColoradoMaui, HawaiiChicago, IllinoisFisher Island, Florida
+  |years active = 1971–present |website = |partner = Stedman Graham
+   |children = Canaan  |signature =
+  Oprah Winfrey Signature.svg 
+Confidence Score = 0
+
+ANSWER : Could not be produced.
+
+Q6 : Who is Oprah Winfrey?
+Infobox person |name = Oprah Winfrey |image =Oprah in 2014.jpg |alt =
+|image_size = |caption = Oprah in October 2014 |birth_name = Orpah Gail
+WinfreyWinfrey has said in interviews that "my name had been chosen from the
+Bible. My Aunt Ida had chosen the name, but nobody really knew how to spell it,
+so it went down as "Orpah" on my birth certificate, but people didnt know how
+to pronounce it, so they put the "P" before the "R" in every place else other
+than the birth certificate. On the birth certificate it is Orpah, but then it
+got translated to Oprah, so here we are." |birth_date = |birth_place =
+Kosciusko, Mississippi, U.S. |death = |alma_mater = Tennessee State University
+|occupation =
+* Host of [[The Oprah Winfrey Show]] 
+* Chairwoman and CEO of Harpo Productions 
+* Chairwoman, CEO, and CCO of the Oprah Winfrey Network 
+* Actress
+* Author |net_worth = US$2.8 billion  |salary = $75 million
+   |party = Democratic |residence = Montecito, CaliforniaLavallette, New
+  JerseyTelluride, ColoradoMaui, HawaiiChicago, IllinoisFisher Island, Florida
+  |years active = 1971–present |website = |partner = Stedman Graham
+   |children = Canaan  |signature =
+  Oprah Winfrey Signature.svg 
+ANSWER : Oprah Winfrey is an American media proprietor, talk show host, actress, producer, and philanthropist.
+Confidence Score = 0
+
+Q7 : Who is the Incredible Hulk?
 Infobox comic book title|
 | title = The Incredible Hulk image = Hulk1.jpg caption =Cover of The Incredible
 | Hulk #1 . Art by Jack Kirby and Paul Reinman schedule = format =
@@ -7,361 +162,209 @@ Infobox comic book title|
 | creative_team_month = creative_team_year = creators = Stan LeeJack Kirby
 |subcat= Hulk  |sort= Incredible Hulk 
 ANSWER :  Incredible Hulk is an ongoing comic book series featuring the Marvel Comics superhero the Hulk and his alter ego Dr. Bruce Banner.
+Confidence Score = 0
 
-Q2 : Who is Katy PErry?
+Q8 : What is an orange?
 
-ANSWER : Could not be produced.
-
-Q3 : Who is Katy Perry?
-Infobox person
-| name = Katy Perry image = Katy Perry at Madison Square Garden 
-| .jpg alt = Katy Perry, a woman with a blond pixie haircut, performing
-| on stage in a flesh-colored and blue outfit. She is holding a blue microphone
-| in her left hand. caption = Perry performing during in October 2017 birth_name
-| = Katheryn Elizabeth Hudson alias = {{flatlist|
-* Katy Hudson
-* Katheryn Perry }}
-| birth_date = birth_place = Santa Barbara, California, U.S. relatives = Frank
-| Perry  occupation = {{flatlist|
-* Singer
-* songwriter
-* actress
-* businesswoman
-* philanthropist
-* television judge }}
-| spouse = net_worth = $125 million  website = module = {{Infobox
-| musical artist|embed=yes background = solo_singer genre = {{flatlist|
-* Pop
-* rock }}
-
-| instrument = {{flatlist|
-* Vocals
-* guitar }}
-| years_active = 2001–present label = {{flatlist|
-* Red Hill
-* Java
-* Columbia
-* Capitol }}
-| associated_acts = The Matrix
-}} 
-ANSWER : Could not be produced.
-
-Q4 : Who is Terry Pratchett?
-Infobox writer
-| honorific_prefix=Sir name = Terry Pratchett honorific_suffix= image =
-| 10.12.12TerryPratchettByLuigiNovi1.jpg caption = Pratchett at the 2012 New
-| York Comic Con birth_name = Terence David John Pratchett birth_date =
-| birth_place = Beaconsfield, Buckinghamshire, England death_date = death_place
-| = Broad Chalke, Wiltshire, England occupation = Novelist genre = Comic fantasy
-| movement = spouse = Lyn Purves children = Rhianna
-| Pratchett awards = {{Plainlist|
-* Knight Bachelor 
-* OBE }}
-| notableworks = [[Discworld]][[Good Omens]][[Nation |Nation]]
-
-| website = signature =
-|module = 
-ANSWER : Could not be produced.
-
-Q5 : What is a the answer to life the universe and everything?
-Multiple issues|
-
-
+Confidence Score = 0
 
 ANSWER : Could not be produced.
 
-Q6 : What is hockey?
+Q9 : What is Brooklyn Nine-Nine
+
+Confidence Score = 0
 
 ANSWER : Could not be produced.
 
-Q7 : What is the Talking Dead?
+Q10 : What is Brooklyn Nine-Nine?
 Infobox television
-| show_name = Talking Dead image = Talking Dead logo.jpeg genre = Aftershow
-| presenter = Chris Hardwick director = composer = executive_producer = producer
-| = editor = location = }} country = United States language = English network =
-| AMC company = num_seasons = 7 num_episodes = 136 
-| list_episodes = #Episodes first_aired = last_aired = present related = website
-| = http://www.amc.com/shows/talking-dead
+| show_name = Brooklyn Nine-Nine image = Brooklyn nine-nine logo.png caption =
+| genre = {{Plainlist|
+*Police procedural *Sitcom}}
+| creator = {{Plainlist|
+* Dan Goor
+* Michael Schur}}
+| starring = {{Plainlist|
+* Andy Samberg
+* Stephanie Beatriz
+* Terry Crews
+* Melissa Fumero
+* Joe Lo Truglio
+* Chelsea Peretti
+* Andre Braugher
+* Dirk Blocker
+* Joel McKinnon Miller}}
+| theme_music_composer = {{plainlist|
+* Dan Marocco
+* Jacques Slade
+* Lamar Van Sciver
+* Frank Greenfield }}
+| opentheme = endtheme = composer = Dan Marocco country = United States language
+| = English num_seasons = 5 num_episodes = 109 list_episodes = List of Brooklyn
+| Nine-Nine episodes executive_producer = {{Plainlist|
+* Dan Goor
+* Michael Schur
+* David Miner
+* Phil LordChristopher Miller
+* Luke Del Tredici }}
+| producer = {{Plainlist|
+* Marshall Boone
+* Norm Hiscock
+* Matt Nodella *Andy Samberg }}
+| camera = Single-camera runtime = 21–23 minutes company = {{Plainlist|
+* Fremulon
+* Dr. Goor Productions
+* 3 Arts Entertainment
+* Universal Television }}
+| distributor = NBCUniversal Television Distribution network = Fox
+| picture_format = HDTV  audio_format = Surround with Descriptive Video
+| Service on SAP channel first_aired = last_aired =
+
+ANSWER : Brooklyn Nine-Nine is an American police television sitcom that premiered on Fox on September 17, 2013.
+Confidence Score = 0
+
+Q11 : What is a trashcan?
+
+Confidence Score = 0
 
 ANSWER : Could not be produced.
 
-Q8 : What is the Smithsonian?
-Infobox Museum |name = Smithsonian Institution |logo = |logo_caption= Logo
-|image = Flag of the Smithsonian Institution.svg |caption = Flag of the
-Smithsonian Institution |map_type = United States Washington, D.C. central#USA
-|map_relief = 1 |coordinates = |established = August 10, 1846 |location =
-Washington, D.C.; Chantilly, Virginia; New York City |type = |visitors =
-|director = David J. Skorton, Secretary of the Smithsonian |curator = |website =
+Q12 : What is The Matrix?
+
+Confidence Score = 0
 
 ANSWER : Could not be produced.
 
-Q9 : What is a car?
-Infobox machine
-| name = Car image = caption = Modern cars and trucks driving on an expressway
-| in Ontario, Canada. classification = Vehicle industry = Various application =
-| dimensions = weight = fuel_source = Gasoline, diesel, natural gas, electric,
-| hydrogen, solar, vegetable oil powered = Yes self-propelled = Yes wheels = 3–4
-| tracks = legs = aerofoils = axles = 2 components = invented = inventor = Karl
-| Benz examples =
+Q13 : Where is the White House?
+Infobox Historic building
+| name = White House image = File:White House north and south sides.jpg
+| image_size = 250px caption = Top: the northern facade with a columned portico
+| facing Lafayette Square Bottom: the southern facade with a semi-circular
+| portico facing The Ellipse map_type = United States Washington, D.C.
+| central#USA map_caption = Location in Washington, D.C. coordinates = address =
+| 1600 Pennsylvania AvenueNW Washington, D.C. 20500 U.S. current_tenants =
+| Donald Trump, President of the United States and the First Family architect =
+| James Hoban floor_area = client = engineer = start_date = completion_date =
+| structural_system = style = Neoclassical, Palladian size =
 
-ANSWER :  car is a wheeled motor vehicle used for transportation.
-
-Q10 : When was Justin Bieber born?
+ANSWER : The White House is located in Washington, D.C.
+Q14 : Where is the Leaning Tower of Pizza?
+Infobox religious building |building_name = Leaning Tower of Pisa |native_name
+= Torre pendente di Pisa |native_name_lang = it |image = The Leaning Tower of
+Pisa SB.jpeg |caption = Leaning Tower of Pisa |location = Pisa, Italy |geo =
+|religious_affiliation = Roman Catholic |province = |district = |status =
+|functional_status = |heritage_designation= |website = |architecture = yes
+|architect = Bonanno Pisano |architecture_type = |architecture_style =Romanesque
+|groundbreaking = 1173 |year_completed = 1372 |height_max = |materials =
+{{Flatlist|
+* marble
+* stone }}
+| footnotes =
+  {{Infobox UNESCO World Heritage Site |child = yes |Part_of = Piazza del Duomo,
+  Pisa |ID = 395 |Year = 1987 |Criteria = Cultural: i, ii, iv, vi }} 
+ANSWER : The Leaning Tower of Pizza is located Pisa, Italy
+Q15 : Where was Kanye West born?
 Infobox person
-| name = Justin Bieber image = Justin_Bieber_in_2015.jpg caption = Bieber in
-| 2015 birth_name = Justin Drew Bieber birth_date = birth_place = London,
-| Ontario, Canada occupation = {{flatlist|
-* Singer
+| name = Kanye West image = Kanye West at the 2009 Tribeca Film Festival.jpg
+| caption = West at the 2009 Tribeca Film Festival birth_name = Kanye Omari West
+| birth_date = birth_place = Atlanta, Georgia, U.S. residence = Hidden Hills,
+| California, U.S. alma_mater = occupation = {{flatlist|
+* Rapper
+* singer
 * songwriter
-* actor }}
-| years_active = 2007–present home_town = Stratford, Ontario, Canada module =
-| {{Infobox musical artist|embed=yes background = solo_singer instrument =
-| {{flatlist|
+* record producer
+* fashion designer
+* entrepreneur }}
+| years_active = 1996–present net_worth = US$145 millionhttps://www.gobankingrates.com/net-worth/kanye-west-net-
+| worth/ education = home_town = Chicago, Illinois, U.S. title = spouse =
+| children = 3 website = module = {{Infobox musical artist embed = yes
+| background = solo_singer instrument = {{flatlist|
 * Vocals
-* drums
-* guitar }}
+* keyboard
+* sampler
+* drum machine
+* synthesizer
+* piano }}
 | genre = {{flatlist|
-* Pop
-* R&B }}
+* Hip hop
+* R&B
+* pop }}
 | label = {{flatlist|
-* Island
-* Teen Island
-* RBMG
-* School Boy
+* GOOD
+* Roc-A-Fella
 * Def Jam }}
 | associated_acts = {{flatlist|
-* Carly Rae Jepsen
-* Diplo
-* Lil Twist
-* Skrillex
-* Usher }}
-| website =
-}}
-| signature = File:Signature Justin Bieber.svg
+* Child Rebel Soldier
+* Kids See Ghost
+* Big Sean
+* Common
+* Consequence
+* Drake
+* Frank Ocean
+* GLC
+* Jamie Foxx
+* Jay-Z
+* John Legend
+* Justin Vernon
+* Kid Cudi
+* Mike Dean
+* No I.D.
+* Pusha T
+* Rihanna
+* Twista }} }} 
+ANSWER : Kanye West was born in Atlanta, Georgia, U.S.
+Q16 : Where was the Batte of Normandy?
+
+Confidence Score = 0.319444444444444
 
 ANSWER : Could not be produced.
 
-Q11 : When was World War I?
-Infobox military conflict
-| conflict = World War I image = WWImontage.jpg image_size = 300px caption =
-| Clockwise from the top: The aftermath of shelling during the Battle of the
-| Somme, Mark V tanks cross the Hindenburg Line, sinks after hitting a mine in
-| the Dardanelles, a British Vickers machine gun crew wears gas masks during the
-| Battle of the Somme, Albatros D.III fighters of Jagdstaffel 11 date = 
-{{Collapsible list
-| bullets = yes title = Peace treaties
-|Treaty of VersaillesSigned 28 June 1919 |Treaty of Saint-Germain-en-
-LayeSigned 10 September 1919 |Treaty of Neuilly-sur-SeineSigned 27 November
-1919 |Treaty of TrianonSigned 4 June 1920 |Treaty of SèvresSigned 10 August
-1920 |United States–Austria Peace TreatySigned 24 August 1921 |United
-States–Germany Peace TreatySigned 25 August 1921 |United States–Hungary Peace
-TreatySigned 29 August 1921 |Treaty of LausanneSigned 24 July 1923 }}
-| place = Europe, Africa, the Middle East, the Pacific Islands, China, Indian
-| Ocean, and off the coast of South and North America casus = Assassination of
-| Archduke Franz Ferdinand  followed by Austro-Hungarian declaration of
-| war on Kingdom of Serbia  and Russian mobilisation against Austria-
-| Hungary . result = Allied victory
-* Central Powers victory on the Eastern Front nullified by defeat on the
-  Western Front
-* Fall of the German, Russian, Ottoman, and Austro-Hungarian empires
-* Russian Civil War and foundation of the Soviet Union
-* Formation of new countries in Europe and the Middle East
-* Transfer of German colonies and regions of the former Ottoman Empire to
-  other powers
-* Establishment of the League of Nations. 
-| combatant1 = [[Allies of World War I|Allied Powers]]{{plainlist|
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*  Hejaz
-*
-*  Siam
-* }}
-| combatant2 = [[Central Powers]]{{plainlist|
-*
-*
-*
-*
-* }}
-| commander1 = [[Allies of World War I#Leaders|Allied leaders]]{{plainlist|
-*  Raymond Poincaré
-*  Georges Clemenceau
-*  H. H. Asquith
-*  David Lloyd George
-*  Nicholas II
-*  Victor Emmanuel III
-*  Vittorio Orlando
-*  Woodrow Wilson
-*  Yoshihito
-*  Peter I
-*  Ferdinand I
-*  Eleftherios Venizelos
-* }}
-| commander2 = [[Central Powers#Leaders|Central Powers leaders]]{{plainlist|
-*  Wilhelm II
-*  Franz Joseph I †
-*  Karl I
-*  Mehmed V †
-*  Mehmed VI
-*  Three Pashas
-*  Ferdinand I
-* }}
-| strength1 = {{plainlist|
-*  12,000,000
-*  8,841,541Figures are for the British Empire
-*  8,660,000Figures are for Metropolitan France and its colonies
-*  5,615,140
-*  4,743,826
-*  1,234,000
-*  800,000
-*  707,343
-*  380,000
-*  250,000
-*  50,000}} Total: 42,959,850
-| strength2 = {{plainlist|
-*  13,250,000
-*  7,800,000
-*  2,998,321
-*  1,200,000}} Total: 25,248,321
-| casualties1 = {{plainlist|
-* Military dead: 5,525,000
-* Military wounded: 12,831,500
-* Total: 18,356,500&nbsp;KIA, WIA and MIA
-* Civilian dead: 4,000,000}}
+Q17 : Where was Page semi-protected Listen to this article
 
-| casualties2 = {{plainlist|
-* Military dead: 4,386,000
-* Military wounded: 8,388,000
-* Total: 12,774,000&nbsp;KIA, WIA and MIA
-* Civilian dead: 3,700,000}}
-
-| campaignbox =
+Confidence Score = 0.319444444444444
 
 ANSWER : Could not be produced.
 
-Q12 : When was World War II?
-Infobox military conflict |conflict = World War&nbsp;II |partof = |image =
-Infobox collage for WWII.PNG |image_size = 300px |caption = (clockwise from top
-left) {{flatlist|
-* Chinese forces in the Battle of Wanjialing
-* Australian 25-pounder guns during the First Battle of El Alamein
-* German Stuka dive bombers on the Eastern Front in December 1943
-* American naval force in the Lingayen Gulf
-* Wilhelm Keitel signing the German Instrument of Surrender
-* Soviet troops in the Battle of Stalingrad }} |date = )}} |place = Europe,
-  Pacific, Atlantic, South-East Asia, China, Middle East, Mediterranean, North
-  Africa and Horn of Africa, briefly North and South America |territory =
-  |result = Allied victory
-* Collapse of Nazi Germany
-* Fall of Japanese and Italian Empires
-* Dissolution of the League of Nations
-* Creation of the United Nations
-* Emergence of the United States and the Soviet Union as superpowers
-* Beginning of the Cold War 
-
-
-
-| combatants_header = Participants
-|combatant1 =Allied Powers |combatant2 =Axis Powers
-
-|commander1 = [[Allied leaders of World War II|Main Allied
-leaders]]{{plainlist|
-*  Franklin D. Roosevelt
-*  Joseph Stalin
-*  Winston Churchill
-*  Chiang Kai-shek}} |commander2 = [[Axis leaders of World War II|Main Axis
-   leaders]]{{plainlist|
-*  Adolf Hitler
-*  Hirohito
-*  Benito Mussolini}} |casualties1 = {{plainlist|
-* Military dead:Over 16,000,000
-* Civilian dead:Over 45,000,000
-* Total dead:Over 61,000,000 }} ...further details |casualties2 =
-  {{plainlist|
-* Military dead:Over 8,000,000
-* Civilian dead:Over 4,000,000
-* Total dead:Over 12,000,000 }} ...further details
-  |campaignbox= 
-ANSWER : Could not be produced.
-
-Q13 : When was Jesus born?
-Infobox person
-
-| name = Jesus image = Cefal� Pantocrator retouched.jpg caption = 1130}}
-| birth_date = Rahner states that the consensus among scholars is . Sanders also
-| favors and refers to the general consensus. Finegan uses the study of early
-| Christian traditions to support c.&nbsp;3 or 2&nbsp;BC. }} birth_place =
-| Judea, Roman Empire
-|family = James, Joseph , Judas , and Simon and unnamed sisters
-| death_date = }}  death_place = Jerusalem, Judea, Roman Empire
-| death_cause = Crucifixion Bart Ehrman states that the crucifixion of Jesus on
-| the orders of Pontius Pilate is the most certain element about him. John
-| Dominic Crossan and Richard G. Watts state that the crucifixion of Jesus is as
-| certain as any historical fact can be. Paul R. Eddy and Gregory A. Boyd say
-| that non-Christian confirmation of the crucifixion of Jesus is now "firmly
-| established". }} home_town = Nazareth, Galilee
-
-| parents = }}
+Q18 : Julius CaesarWhere was Julius Caesar born?
+Infobox officeholder
+| name = Gaius Julius Caesar native_name = image = File:César .jpg
+| caption = The Tusculum portrait, perhaps the only surviving sculpture of
+| Caesar made during his lifetime. Archaeological Museum, Turin, Italy office =
+| Dictator of the Roman Republic term_start = October 49 BC term_end = 15 March
+| 44 BC office1 = Consul of the Roman Republic term_start1 = 1 January 44 BC
+| term_end1 = 15 March 44 BC alongside1 = Mark Antony&nbsp; predecessor1 = C.
+| Caninius Rebilus and Gaius&nbsp;Trebonius  successor1 = P.
+| Cornelius Dolabella and Mark Antony term_start2 = 1 January 46 BC
+| term_end2 = September 45 BC alongside2 = M. Aemilius Lepidus 
+| predecessor2 = Q. Fufius Calenusand Publius&nbsp;Vatinius successor2 = Q.
+| Fabius Maximus and Gaius&nbsp;Trebonius  term_start3 = 1
+| January 48 BC term_end3 = 1 January 47 BC alongside3 = P. Servilius Vatia
+| Isauricus predecessor3 = C. Claudius Marcellus Maiorand
+| L.&nbsp;Cornelius&nbsp;Lentulus&nbsp;Crus successor3 = Q. Fufius Calenusand
+| Publius&nbsp;Vatinius term_start4 = 1 January 59 BC term_end4 = 1 January 58
+| BC alongside4 = Marcus Calpurnius Bibulus predecessor4 = Q. Caecilius Metellus
+| Celerand Lucius&nbsp;Afranius successor4 = L. Calpurnius Piso Caesoninusand
+| Aulus&nbsp;Gabinius birth_name = Gaius Julius Caesar birth_date = 12 or 13
+| July 100 BC birth_place = Rome death_date = 15 March 44 BC 
+| death_place = Rome death_cause = Assassination resting_place = Temple of
+| Caesar, Rome party = Populares spouse = {{plainlist|
+* Cornelia 
+* Pompeia 
+* Calpurnia }}
+| children = {{plainlist|
+* Julia c. 76–54 BC
+* Caesarion 47–30 BC
+* Augustus  63&nbsp;BC–14&nbsp;AD }}
+| parents = Gaius Julius Caesar and Aurelia Cotta
 }}
 
-
-Jesus; }} , also referred to as Jesus of Nazareth and Jesus Christ, was
-a first-century Jewish preacher and religious leader. He is the central figure
-of Christianity. Most Christians believe him to be the incarnation of God the
-Son and the awaited Messiah  prophesied in the Old Testament.
-
-
-Virtually all modern scholars of antiquity agree that Jesus existed
-historically, Richard A. Burridge states: "There are those who argue that Jesus
-is a figment of the Churchs imagination, that there never was a Jesus at all. I
-have to say that I do not know any respectable critical scholar who says that
-any more". Robert M. Price does not believe that Jesus existed, but agrees that
-this perspective runs against the views of the majority of scholars. James D. G.
-Dunn calls the theories of Jesus non-existence "a thoroughly dead thesis".
-Michael Grant  wrote in 1977, "In recent years, no serious
-scholar has ventured to postulate the non historicity of Jesus or at any rate
-very few, and they have not succeeded in disposing of the much stronger, indeed
-very abundant, evidence to the contrary". Robert E. Van Voorst states that
-biblical scholars and classical historians regard theories of non-existence of
-Jesus as effectively refuted.}} although the quest for the historical Jesus has
-produced little agreement on the historical reliability of the Gospels and on
-how closely the Jesus portrayed in the Bible reflects the historical Jesus.}}
-Jesus was a Galilean Jew who was baptized by John the Baptist and subsequently
-began his own ministry, preaching his message orally and often being referred to
-as "rabbi". Jesus debated with fellow Jews on how to best follow God, engaged in
-healings, taught in parables and gathered followers. He was arrested and tried
-by the Jewish authorities, and turned over to the Roman government, and was
-subsequently crucified on the order of Pontius Pilate, the Roman prefect. After
-his death, his followers believed he rose from the dead, and the community they
-formed eventually became the early Church.
-
-The birth of Jesus is celebrated annually on December 25 (or various dates in
-January by some eastern churches) as a holiday known as Christmas. His
-crucifixion is honored on Good Friday, and his resurrection is celebrated on
-Easter. The widely used calendar era "AD", from the Latin anno Domini ("in the
-year of the Lord"), and the alternative "CE", are based on the approximate birth
-date of Jesus.
-ANSWER : Could not be produced.
-
-Q14 : When is Martin Luther King Day?
-Infobox holiday |holiday_name = Martin Luther King Jr. Day |type = National
-|image = Martin Luther King press conference 01269u edit.jpg |image_size = 200px
-|caption = King in 1964 |official_name = Birthday of Martin Luther King Jr.
-|nickname = MLK Day, King Day, Reverend Dr. Martin Luther King Jr. Day
-|observedby = United States |scheduling = nth weekday of the month |duration = 1
-day |frequency = Yearly |week_ordinal = third |weekday = Monday |month = January
-
-ANSWER : Could not be produced.
-
-Q15 : When was Bill Gates born?
+Gaius Julius Caesar, . His titulary name was Imperator Gaius Iulius Gai
+filius Gai nepos Caesar Patris Patriae "Commander Gaius Julius Caesar, son
+of Gaius, grandson of Gaius, Father of his Country", (Suetonius, Divus Julius
+76.1). Official name after deification in 42&nbsp;BC: Divus Iulius ("The Divine
+Julius").
+ANSWER : Julius Caesar was born in Rome
+Q19 : When was Bill Gates born?
 Infobox person
 | name = Bill Gates image = Bill Gates June 2015.jpg alt = Head and shoulders
 | photo of Bill Gates caption = Gates in 2015 birth_name = William Henry Gates
@@ -389,110 +392,204 @@ Mundie. Development of Information and Knowledge Management|url=https://www.tlu-
 nuary 21, 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160126074023-
 /http://www.tlu.ee/~sirvir/IKM/Development_of_IKM/bill_gates.html|archivedate=J-
 anuary 26, 2016|df=mdy-all
-ANSWER : Could not be produced.
-
-Q16 : Where is Hungary?
-Infobox country
-| conventional_long_name = Hungary common_name = Hungary native_name =
-| image_flag = Flag of Hungary.svg image_coat = Coat of Arms of Hungary.svg
-| symbol_width = 50px national_motto = national_anthem = image_map = EU-
-| Hungary.svg map_caption = capital = Budapest coordinates = largest_city =
-| capital languages_type = Official language languages = Hungarian ethnic_groups
-| = {{unbulleted list
-| 80.7% Hungarians
-| 14.7% not declared
-|  3.1% Roma
-|  1.3% Germans
- }}
-| ethnic_groups_year = 2011 religion = demonym = Hungarian government_type =
-| leader_title1 = President leader_name1 = János Áder leader_title2 = Prime
-| Minister leader_name2 = Viktor Orbán leader_title3 = Speaker of the
-| National&nbsp;Assembly leader_name3 = László Kövér legislature = [[National
-| Assembly |Országgyűlés]] sovereignty_type = Foundation
-| established_event1 = Principality of Hungary established_date1 = 895
-| established_event2 = Battle of Pressburg established_date2 = 4–6 July 907
-| established_event3 = Christian Kingdom established_date3 = 25 December
-| 1000University of British Columbia. Committee for Medieval Studies,
-| [https://books.google.com/books?id=xV7xAAAAMAAJ Studies in medieval and
-| renaissance history], Committee for Medieval Studies, University of British
-| Columbia, 1980, p. 159 established_event4 = Golden Bull of 1222
-| established_date4 = 24 April 1222 established_event5 = established_date5 = 29
-| August 1526 established_event6 = of Buda established_date6 = 2 September 1686
-| established_event7 = established_date7 = 15 March 1848 established_event8 =
-| Austro-Hungarian Empire established_date8 = 20 March 1867 established_event9 =
-| Treaty of Trianon established_date9 = 4 June 1920 established_event10 = Third
-| Republic established_date10 = 23 October 1989 established_event11 = Joined the
-| European Union established_date11 = 1 May 2004 area_km2 = 93,030 area_rank =
-| 108th area_sq_mi = 35,919 percent_water = 0.74% population_estimate =
-| 9,797,561 population_estimate_year = 2017 population_estimate_rank = 92nd
-| population_density_km2 = 105.3 population_density_sq_mi = 274.4
-| population_density_rank = 103rd GDP_PPP = $306.787 billion GDP_PPP_year = 2018
-| GDP_PPP_rank = 57th GDP_PPP_per_capita = $31,370 GDP_PPP_per_capita_rank =
-| 45th GDP_nominal = $163.541 billion GDP_nominal_year = 2018 GDP_nominal_rank =
-| 58th GDP_nominal_per_capita = $16,723 GDP_nominal_per_capita_rank = 54th Gini
-| = 27.9 Gini_year = 2014 Gini_change = decrease Gini_ref = Gini_rank = 16th HDI
-| = 0.836 HDI_year = 2015 HDI_change = increase HDI_ref = HDI_rank = 43rd
-| currency = Forint currency_code = HUF time_zone = CET utc_offset = +1
-| utc_offset_DST = +2 time_zone_DST = CEST date_format = yyyy.mm.dd. drives_on =
-| right calling_code = +36 patron_saint = Saint Stephen cctld = .hu and .eu
-| area_magnitude = 1 E10 country_code = hu
+Confidence Score = 0.644444444444444
 
 ANSWER : Could not be produced.
 
-Q17 : Where is Rome?
-Infobox settlement
-
-| name = Rome official_name = Roma Capitale native_name = Roma settlement_type =
-| [[Comune]] image_skyline = Rome Montage 2017.png image_caption = Clockwise
-| from top: the Colosseum, St. Peters Basilica, Castel SantAngelo, Ponte
-| SantAngelo, Trevi Fountain and the Pantheon image_flag = image_shield =
-| nickname = The Eternal City, Capital of the World, Throne of St. Peter
-
-| image_map = Map of comune of Rome (metropolitan city of Capital Rome, region
-| Lazio, Italy).svg map_caption = The territory of the comune (Roma Capitale, in
-| red) inside the Metropolitan City of Rome (Città Metropolitana di Roma, in
-| yellow). The white area in the centre is Vatican City. pushpin_map =
-| Italy#Lazio#Europe pushpin_map_caption = Location in Italy & Europe
-|pushpin_relief = yes
-| coordinates = coor_pinpoint =
-
-
-| subdivision_type = Country subdivision_name = Excluding }} subdivision_type2 =
-| Region subdivision_name2 =
-
-| government_footnotes = government_type = Special Comune 
-| governing_body = Rome City Council leader_title = Mayor leader_name = Virginia
-| Raggi  total_type = Total unit_pref = IT
-
-| area_footnotes = area_total_sq_mi = 496.3 area_urban_sq_mi =
-
-| elevation_footnote = elevation_m = 21 elevation_ft =
-
-| population_total = population_as_of = 30 November 2017 population_footnotes =
-| population_density_km2 = 2236 population_rank = 1st, Italy 
-| population_blank1_title = Comune population_blank1 = 2,873,874
-| population_blank2_title = Metropolitan City population_blank2 = 4,357,041[htt-
-| p://demo.istat.it/pop2014/popol.php?m1=&m2=&m3=&m4=&m5=y&f1=&f2=&f3=&f4=&f5=y-
-| &daanno=0&adanno=100&lingua=eng&Rip=S3&Reg=R12&Pro=P058&Com=000&submit=Save
-| Bilancio demografico Anno 2014 . Provincia: Roma] –
-| Demo.istat.it population_demonym =
-
-| timezone1 = CET utc_offset1 = +1
-
-| postal_code_type = CAP code postal_code = 00100; 00118 to 00199 area_code =
-| 06 website = [http://www.comune.roma.it/ Comune di Roma] pushpin_label = Rome
-| un_locode =
+Q20 : When was World War II?
+Infobox military conflict |conflict = World War&nbsp;II |partof = |image =
+Infobox collage for WWII.PNG |image_size = 300px |caption = (clockwise from top
+left) {{flatlist|
+* Chinese forces in the Battle of Wanjialing
+* Australian 25-pounder guns during the First Battle of El Alamein
+* German Stuka dive bombers on the Eastern Front in December 1943
+* American naval force in the Lingayen Gulf
+* Wilhelm Keitel signing the German Instrument of Surrender
+* Soviet troops in the Battle of Stalingrad }} |date = )}} |place = Europe,
+  Pacific, Atlantic, South-East Asia, China, Middle East, Mediterranean, North
+  Africa and Horn of Africa, briefly North and South America |territory =
+  |result = Allied victory
+* Collapse of Nazi Germany
+* Fall of Japanese and Italian Empires
+* Dissolution of the League of Nations
+* Creation of the United Nations
+* Emergence of the United States and the Soviet Union as superpowers
+* Beginning of the Cold War 
 
 
-ANSWER : The Rome is located in Italy & Europe
 
-Q18 : Where was Wrestlemania 31?
-Infobox Wrestling event |name = WrestleMania 31 |image = WM31Poster.png
-|caption = Promotional poster featuring various WWE wrestlers |tagline = |theme
-= "Rise" by David Guetta ft. Skylar Grey"Money and the Power" by Kid Ink
-|promotion = WWE |sponsor = Mountain DewMountain Dew Kickstart |date = March 29,
-2015 |attendance = 76,976 |venue = Levis Stadium |city = Santa Clara,
-California |wwenlast = Fastlane  |wwennext = Extreme Rules  |event =
-WrestleMania |lastevent2 = WrestleMania XXX |nextevent2 = WrestleMania 32 
+| combatants_header = Participants
+|combatant1 =Allied Powers |combatant2 =Axis Powers
+
+|commander1 = [[Allied leaders of World War II|Main Allied
+leaders]]{{plainlist|
+*  Joseph Stalin
+*  Franklin D. Roosevelt
+*  Winston Churchill
+*  Chiang Kai-shek}} |commander2 = [[Axis leaders of World War II|Main Axis
+   leaders]]{{plainlist|
+*  Adolf Hitler
+*  Hirohito
+*  Benito Mussolini}} |casualties1 = {{plainlist|
+* Military dead:Over 16,000,000
+* Civilian dead:Over 45,000,000
+* Total dead:Over 61,000,000 }} ...further details |casualties2 =
+  {{plainlist|
+* Military dead:Over 8,000,000
+* Civilian dead:Over 4,000,000
+* Total dead:Over 12,000,000 }} ...further details
+  |campaignbox= 
+Confidence Score = 0.644444444444444
+
+ANSWER : Could not be produced.
+
+Q21 : When was the French Revolution?
+Infobox historical event |Event_Name = French Revolution |Image_Name =
+Prise de la Bastille.jpg |Image_Caption = The Storming of the Bastille, 14
+July 1789 |Location = Kingdom of France |Date =  |Result = * Abolition of
+the French monarchy
+* Establishment of a secular and democratic republic that became increasingly
+  authoritarian and militaristic
+* Radical social change based on liberalism and other Enlightenment principles
+* Rise of Napoleon Bonaparte
+* Armed conflicts with other European countries 
+Confidence Score = 0.644444444444444
+
+ANSWER : Could not be produced.
+
+Q22 : When was Donald Glover born?
+Infobox person
+| name = Donald Glover image = Donald Glover TIFF 2015.jpg image_size = caption
+| = Glover in September 2015 alias = {{flatlist|
+*Childish Gambino *mcDJ }}
+| birth_date = birth_place = Edwards Air Force Base, California, U.S. occupation
+| = {{flatlist|
+* Actor
+* comedian
+* singer
+* songwriter
+* writer
+* rapper
+* producer
+* director
+* DJ }}
+| years_active = 2002–present children = 2 module = {{Infobox comedian|embed=yes
+| medium = {{flatlist|
+* Stand-up
+* television
+* film
+* music }}
+| genre = {{flatlist|
+* Observational comedy
+* surreal humor
+* blue comedy
+* musical comedy
+* sketch comedy
+* satire }}
+| subject = {{flatlist|
+* African-American culture
+* American politics
+* current events
+* everyday life
+* pop culture
+* race relations
+* racism
+* the internet
+* the future
+* existentialism
+* human sexuality}}
+| module = {{Infobox musical artist|embed=yes background = solo_singer genre =
+| {{flatlist|
+* Hip hop
+* funk
+* R&B
+* soul
+* psychedelia
+* rock }}
+| instrument = {{flatlist|
+* Vocals
+* piano
+* drums }}
+| label = {{flatlist|
+* Glassnote 
+* Island
+* RCA}}
+| associated_acts = Ludwig Göransson website =
+}} }} }}
+
+Donald McKinley Glover Jr.  is an American actor,
+comedian, writer, director, producer, singer, songwriter, rapper, and DJ. He
+raps under the stage name Childish Gambino and performs as a DJ under the
+name mcDJ.
+
+He first came to attention for his work with Derrick Comedy while a student at
+New York University  and, with the help of Tina Fey, was hired at the age
+of 23 to become a writer for the NBC sitcom [[30 Rock]]. He later portrayed
+community college student Troy Barnes on the NBC sitcom [[Community (TV
+series)|Community]]. He stars in the FX series [[Atlanta |Atlanta]],
+which he created and occasionally directs. For his work on Atlanta, Glover has
+won various accolades, including Primetime Emmy Awards for Outstanding Lead
+Actor in a Comedy Series and Outstanding Directing for a Comedy Series,
+Television Academy|work=Television Academy|access-date=September 19,
+2017|language=en}} and Golden Globe Awards for Best Television Series – Musical
+or Comedy and Best Actor – Television Series Musical or Comedy.
+
+In film, Glover has appeared in [[Mystery Team]]  [[Magic Mike XXL]]
+, [[The Martian |The Martian]] , [[Spider-Man: Homecoming]]
+ as Aaron Davis, and has been cast as the young Lando Calrissian in the
+upcoming [[Solo: A Star Wars Story]]. He will also provide the voice of Simba in
+a remake of the Disney film [[The Lion King |The Lion King]] .
+
+After several self-released albums and mixtapes, Glover signed to Glassnote
+Records in 2011. He released his first album, [[Camp |Camp]], on November
+15, 2011, to generally positive reviews. His second studio album, [[Because the
+Internet]], was released on December 10, 2013. Glover was nominated for two
+Grammy Awards in 2015, Best Rap Album for Because the Internet and Best Rap
+Performance for his single "3005". Glovers third album, [["Awaken, My Love!"]],
+was released on December 2, 2016, spawning the hit single "Redbone", which
+peaked at number 12 on the Billboard Hot 100. Billboard|website=www.billboard.com|language=en|access-
+date=September 19, 2017}} In 2018, Glover was nominated for five Grammy Awards,
+including Album of the Year for "[["Awaken, My Love!"|Awaken, My Love!]]" and
+Record of the Year for "Redbone", eventually winning the award for Best
+Traditional R&B Performance. In 2017, Glover was named one of Time{{
+Confidence Score = 0.42962962962963
+
+ANSWER : Could not be produced.
+
+Q23 : When was Donald Trump born?
+Infobox president |name = Donald Trump |image = Donald Trump official
+portrait.jpg |order = 45th |office = President of the United States
+|vicepresident = Mike Pence |term_start = January 20, 2017 |term_end =
+|predecessor = Barack Obama |successor = |birth_name = Donald John Trump
+|birth_date = |birth_place = New York City |party = Republican (1987–1999,
+2009–2011, 2012–present) |otherparty = {{plainlist|
+* Democratic 
+* Reform 
+* Independent }} |spouse = {{plainlist|
+*
+*
+* }} |children = {{flatlist|
+* Donald Jr.
+* Ivanka
+* Eric
+* Tiffany
+* Barron }} |parents = {{flatlist|
+* Fred
+* Mary Anne}} |relatives = Trump family |awards = List of honors and awards
+  |residence = {{plainlist|
+* White House 
+* Trump Natl. Bedminster 
+* Mar-a-Lago 
+* Trump Tower  }} |alma_mater = The Wharton School (BS in
+  Econ.) |occupation = {{plainlist|
+*
+* }} |net_worth = US$3.1&nbsp;billion  |signature = Donald Trump
+  Signature.svg |signature_alt = Donald J Trump stylized autograph, in ink
+  |website = {{plainlist|
+*
+*
+* }} 
+Confidence Score = 0.28641975308642
+
 ANSWER : Could not be produced.
 

@@ -1,0 +1,87 @@
+Who questions
+
+Q1 : Who is George Washington?
+Correct Answer : George Washington was the first President of the United States
+My System Answer : George Washington was an American statesman and soldier who served as the first President of the United States from 1789 to 1797 and was one of the Founding Fathers of the United States (Correct)
+
+Q2 : Who is Thomas Jefferson?
+Correct Answer : Thomas Jefferson was the third President of the United States
+My System Answer : Thomas Jefferson  was an American Founding Father who was the principal author of the Declaration of Independence and later served as the third President of the United States from 1801 to 1809 (Correct)
+
+Q3 : Who is Melania Trump?
+Correct Answer : Melania Trump is the current First Lady of the United States
+My System Answer : Melania Trump is the current First Lady of the United States and wife of the 45th U.S. President Donald Trump. (Correct)
+
+Q4 : Who is Oprah Winfrey?
+Correct Answer :  Oprah Winfrey is an American media proprietor, talk show host, actress, producer, and philanthropist.
+My System Answer :  Oprah Winfrey is an American media proprietor, talk show host, actress, producer, and philanthropist. (Correct)
+
+Q5 : Who is the Incredible Hulk?
+Correct Answer : Incredible Hulk is an ongoing comic book series featuring the Marvel Comics superhero the Hulk and his alter ego Dr. Bruce Banner.
+My System Answer : Incredible Hulk is an ongoing comic book series featuring the Marvel Comics superhero the Hulk and his alter ego Dr. Bruce Banner. (Correct)
+
+What questions
+
+Q1 : What is orange?
+Correct Answer : The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae.
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
+
+Q2 : What is Brooklyn Nine-Nine?
+Correct Answer : Brooklyn Nine-Nine is an American police television sitcom that premiered on Fox on September 17, 2013.
+My System Answer : Brooklyn Nine-Nine is an American police television sitcom that premiered on Fox on September 17, 2013. (Correct)
+
+Q3 : What is Big Ben?
+Correct Answer : Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.
+My System Answer : Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower (Correct)
+
+Q4 : What is a trashcan?
+Correct Answer : A waste container is a container for temporarily storing waste, and is usually made out of metal or plastic
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
+
+Q5 : What is The Matrix?
+Correct Answer : The Matrix is a 1999 science fiction action film written and directed by The Wachowskis and starring Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano.
+My System Answer : Hmm.. I'm not sure about that (Incorrect)
+
+Where questions
+
+Q1 : Where is White House?
+Correct Answer : The White House is located in Washington, D.C.
+My System Answer : The White House is location in Washington, D.C.
+
+Q2 : Where is the Leaning Tower of Pizza?
+Correct Answer : The Leaning Tower of Pizza is located in Pisa, Italy
+My System Answer : The Leaning Tower of Pizza is located Pisa, Italy (Correct)
+
+Q3 : Where was Kanye West born?
+Correct Answer : Kanye West was born in Atlanta, Georgia, U.S.
+My System Answer : Kanye West was born in Atlanta, Georgia, U.S. (Correct)
+
+Q4 : Where was the Battle of Normandy?
+Correct Answer : The Battle of Normandy was located on the northern coast of France.
+My System Answer : Hmm.. I'm not sure about that (Incorrect)
+
+Q5 : Where was Julius Caesar born?
+Correct Answer : Julius Caesar was born in Rome.
+My System Answer : Julius Caesar was born in Rome (Correct)
+
+When questions
+
+Q1 : When was World War II?
+Correct Answer : World War II lasted from 1939 to 1945
+My System Answer : Hmm.. I'm not sure about that.
+
+Q2 : When was Bill Gates born?
+Correct Answer : Bill Gates was born on October 28, 1955
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
+
+Q3 : When was French Revolution?
+Correct Answer : The French Revolution lasted from 1789 until 1799
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
+
+Q4 : When was Donald Trump born?
+Correct Answer : Donald Trump was born on June 14, 1946
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
+
+Q5 : When was Donald Glover born?
+Correct Answer : Donald Glover was born on September 25, 1983
+My System Answer : Hmm.. I'm not sure about that. (Incorrect)
