@@ -48,7 +48,7 @@ open my $logfile, '>', $ARGV[0]
 
 my $testfile = "test.txt";
 
-my $input = "", $info, $fullinfo ,$answer;
+my $input = "", $info ,$answer;
 my $q_reference, $verb, $term, $stuff;
 my @term_tokens;
 my $count = 0;
@@ -104,7 +104,6 @@ while ( 1 ) {
 	}
 	if ($extra){
 		$termextrascore = ($#term_tokens+1)/($#term_tokens+$#extras+2);
-    print "extrascore = $termextrascore\n";
 	}
 
   my @sentences;
@@ -114,7 +113,6 @@ while ( 1 ) {
 
     $text = $result->text();
     $text =~ s/\'//g;
-    #$text_ref = $text;
     $text =~ s/\((.*?)\)//g;
 
     # ## regex main information to search through
@@ -124,12 +122,6 @@ while ( 1 ) {
     $info =~ s/\<.*?\>//g;
     $info =~ s/{{(.*)}}//g;
     $info =~ s/\((.*?)\)//g;
-
-    $fullinfo = $result->fulltext();
-    $fullinfo =~ s/\n/ /g;
-    $fullinfo =~ s/\<.*?\>//g;
-    #print "$fullinfo\n";
-
 
     open my $scan, '>', $testfile or die "Could not open file.\n";
     print $scan $info; close $scan;
@@ -234,7 +226,7 @@ while ( 1 ) {
       }
     }
   }
-  
+
   $confidence_score = $confidence_score * $termextrascore;
   print $logfile "Confidence Score = $confidence_score\n\n";
 
