@@ -103,7 +103,7 @@ while ( 1 ) {
 		$extra = join(' ',@extras);
 	}
 	if ($extra){
-		$termextrascore = ($#term_tokens+1)/($#term_tokens+$#extras+2);
+		extra_score = ($#term_tokens+1)/($#term_tokens+$#extras+2);
 	}
 
   my @sentences;
@@ -227,7 +227,7 @@ while ( 1 ) {
     }
   }
 
-  $confidence_score = $confidence_score * $termextrascore;
+  $confidence_score = $confidence_score * extra_score;
   print $logfile "Confidence Score = $confidence_score\n\n";
 
   ## if the search is conducted, but no answer is found, search through the fulltext
